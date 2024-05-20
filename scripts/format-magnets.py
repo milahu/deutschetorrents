@@ -1,9 +1,5 @@
 #!/usr/bin/env python3
 
-# TODO: xclip -o -sel c
-
-# TODO remove unicode junk like ".⭐"
-
 import os
 import sys
 import urllib.parse
@@ -78,6 +74,7 @@ for url in src.split("\n"):
     dn = quote_pretty(dn)
     dn = re.sub("^Bitsearch\.to\.", "", dn)
     dn = dn.replace(".⭐", "").replace("⭐", "")
+    # TODO remove more junk
     query_list.append("dn=" + dn)
   for key in query_dict:
     if key in ("ws",):
@@ -91,7 +88,7 @@ for url in src.split("\n"):
 
 res = list(set(res)) # get unique list
 
-res.sort()
+res.sort(key=lambda s: s.lower()) # case-insensitive sort
 
 print("writing", magnets_txt)
 
