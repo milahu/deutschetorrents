@@ -32,8 +32,8 @@ magnet:?dn=28.Days.Later.2002.German.Audiotrack.2ch.aac.20khz.23976fpms.loud&xt=
 magnet:?dn=28.Days.Later.2002.German.Audiotrack.6ch.dts.20khz.23976fpms.quiet&xt=urn:btih:435f312b9e5c8a7a41a972fdc0d5a19761e4344d
 magnet:?dn=Afire.2023.GERMAN.720p.WEBRip-WORLD&xt=urn:btih:5d37b49d9d4ea977f045ccbce7600e3805a1a91c
 magnet:?dn=All.Quiet.on.the.Western.Front.2022.GERMAN.1080p.NF.WEBRip.DDP5.1.Atmos.x264-SMU&xt=urn:btih:57b004e743a1645d42f91f39320186d42becfecf
-magnet:?dn=Angst.Essen.Seele.Auf.Sonata.Premiere&xt=urn:btih:cc7493d3689d9c95c96e7111bbca3b7f12923eb3
 magnet:?dn=Angst.essen.Seele.auf.1974&xt=urn:btih:8c2382a661f7e2c49e633c47a0836d4164258a4a
+magnet:?dn=Angst.Essen.Seele.Auf.Sonata.Premiere&xt=urn:btih:cc7493d3689d9c95c96e7111bbca3b7f12923eb3
 magnet:?dn=Babylon.Berlin.2017.Season.1.S01.1080p.BluRay.x265.HEVC.10bit.EAC3.5.1.German.Ghost&xt=urn:btih:193eadef7be75583f636a1756428d91d93c4432c
 magnet:?dn=Babylon.Berlin.S01.COMPLETE.GERMAN.720p.10bit.WEBRip.2CH.x265.HE&xt=urn:btih:3161cb2ef0a1dd4a397fe6ac40d5b216a5c0f048
 magnet:?dn=Barbarians.2020.S01.COMPLETE.GERMAN.720p.NF.WEBRip.x264-GalaxyTVTGx&xt=urn:btih:56a595407bd49d077c93706e63b6ad29e200e757
@@ -55,18 +55,18 @@ magnet:?dn=Geboren.in.Absurdistan.Deutsch.-.Xvid.moviesbyrizzo&xt=urn:btih:6b9a2
 magnet:?dn=German.Book.Megapack&xt=urn:btih:78e9edab374094d9007d497811a2cad2aaab284f
 magnet:?dn=Idiocracy.2006.720p.Bluray.x264.MoviesFD.German.Audiotrack&xt=urn:btih:3615a7f7651f428d35ce0b5af43f2c4b2e72ca2a&xt=urn:btmh:1220097ed5dd657b4dd8487ef881f8b763b1364e99921a0525061ad152bf4c35d30b
 magnet:?dn=Idiocracy.2006.German.English.DL.720p.x264.ac3&xt=urn:btih:09efdae290d3e1268167f5909db4c1ad67996f7a&xt=urn:btmh:12204a454110a6e6a3c14532c2511ae3105ce67b552549a309bdba2cfd0e409a1686
-magnet:?dn=KIZ.K.I.Z.Kannibalen.In.Zivil.Diskografie.2005.bis.2021.Deutschrap.German&xt=urn:btih:40b1b06fb7890659d6083659c9895623b1e6fbb6&xt=urn:btmh:12208abef175a14f7f5f4a57ccf986c5feb566ed1b1cb2f1020b6d3d453590fc4262
 magnet:?dn=Kategorie.C&xt=urn:btih:4f9414395ed4ab99103586684a786acdb90cbe6a
+magnet:?dn=KIZ.K.I.Z.Kannibalen.In.Zivil.Diskografie.2005.bis.2021.Deutschrap.German&xt=urn:btih:40b1b06fb7890659d6083659c9895623b1e6fbb6&xt=urn:btmh:12208abef175a14f7f5f4a57ccf986c5feb566ed1b1cb2f1020b6d3d453590fc4262
 magnet:?dn=Komm,.süsser.Tod.AKA.Come.Sweet.Death.2000.1080p.mkv&xt=urn:btih:28ef36af957f21d86b533fd3b50a8f0de359b14e
+magnet:?dn=Labrassbanda--Europa-2013-OMArarbg&xt=urn:btih:e9fa70b486eb6c1cbf2bca9edd6561c2dcd927a2
 magnet:?dn=LaBrassBanda.-.Habediehre.2008&xt=urn:btih:7ae303bb3a0e918d43e8a075158bc42de6a61b97
 magnet:?dn=LaBrassBanda.-.Uebersee.2009&xt=urn:btih:321d8f26ac4de319ad2980f0c4744e698a29152d
-magnet:?dn=Labrassbanda--Europa-2013-OMArarbg&xt=urn:btih:e9fa70b486eb6c1cbf2bca9edd6561c2dcd927a2
 magnet:?dn=Life.Eternal.2015.1080p.BluRay.x264.ger.russ.mkv&xt=urn:btih:bdc619c218d902cb9ef6fb24c660dd99c397ad88
 magnet:?dn=Live.is.Life..Die.Spätzünder.2010.WEBDL.720p.Ukr_Ger.Hurtom.mkv&xt=urn:btih:29b0e062fe3c2124e7025e423f928be64b0125b2
 magnet:?dn=Männer.Frauen.Menschen.2022.720p.Jan.Oechsner.Feminismus&xt=urn:btih:75e224fa849cb5229697df3ae45d3246d63801dd&xt=urn:btmh:1220b0ca48f7144835bb8bc75380ba17a8b7dc599dd12602fd217e5e3c90d3bc480d
-magnet:?dn=NSL.Archiv&xt=urn:btih:81ded8a0174a7a88c93a1e0e253d79b477759f3e
 magnet:?dn=Network.1976.DL.English.German.720p.x264.SUJAIDR&xt=urn:btih:da72fc129a1d90b609a5124fe6a074ddefc0f077
 magnet:?dn=Network.1976.German.Audiotrack&xt=urn:btih:a5bd06e218c3a0e5d8db6ce8f185376a28216bb6&xt=urn:btmh:12200a7042e266b790588558d2ec3486e99dca03e9c7c34a4d40c046026da0f841a3
+magnet:?dn=NSL.Archiv&xt=urn:btih:81ded8a0174a7a88c93a1e0e253d79b477759f3e
 magnet:?dn=Peter.Hahne.Seid.ihr.noch.ganz.bei.Trost.2020.German.Audiobook.mp3.128kbps.17khz&xt=urn:btih:5d11a45a3bbe661f7e3fb848fc90318a6cf1ab3e
 magnet:?dn=Pulp.Fiction.1994.German.Audiotrack.aac.6ch.23976fpms&xt=urn:btih:d41a9d6d32550513879031471b623ee1673b980c
 magnet:?dn=Rakede.-.Es.geht.mir.gut.2017&xt=urn:btih:74343adc69f35b9b5d1c4536645d980886a49623&xt=urn:btmh:122074f770d3487fae55caed4f2070421961d5ee3f29fb1af945110edf3f549a564d
@@ -82,6 +82,7 @@ magnet:?dn=South.Park.Bigger.Longer.and.Uncut.1999.720p.BluRay.x264.YIFY.DL.Germ
 magnet:?dn=SpongeBob.Schwammkopf.der.Film.German.Deutsch.2004.DVDRip&xt=urn:btih:5f0c4b3217c830c87d79b50466e8abb3d066c803
 magnet:?dn=Stalingrad.1993.German.Film,.English.Dubbed,.Subtitles&xt=urn:btih:64b39c7171b551056808e293ca7c6017b2e64b05
 magnet:?dn=Stromberg.The.Movie.2014.BDRip.x264-JustWatch&xt=urn:btih:10cf0b0c792eb56486cd554f394d61d0eb7fc5f1
+magnet:?dn=stromberg_s1-4_bonus&xt=urn:btih:6bebdedf3d694e74f1467152598b0641563db203
 magnet:?dn=The.Baader.Meinhof.Complex.2008.720p.BluRay.YTS.YIFY&xt=urn:btih:4affb4a61475f74c08f29a4a92e4def634b8b530
 magnet:?dn=The.Bone.Man.2009.720p.BluRay.YTS.MX&xt=urn:btih:5c5859b3e906202437a383d061b962a507b6b3e0
 magnet:?dn=The.Lives.of.Others.2006.1080p.BluRay.x264.German.AAC-ETRG&xt=urn:btih:51f1fcb4ff80aa243d94f751793aad48b2206bf3
@@ -101,10 +102,9 @@ magnet:?dn=Werner.-.Beinhart!.Broesel.DVDrip.deutsch&xt=urn:btih:ea8e9d3b22e0107
 magnet:?dn=Werner.-.Das.muss.kesseln!!!.Broesel.DVDrip.deutsch&xt=urn:btih:5ee67c192f445b273e183d4cde54b9d35b1b9548
 magnet:?dn=Werner.-.Gekotzt.wird.spaeter.Broesel.DVDrip.deutsch&xt=urn:btih:5592fc2547823e0dfdb5d2c4a9889bf34a6bfd57
 magnet:?dn=Werner.-.Volles.Rooaaa!!!.Broesel.DVDrip.deutsch&xt=urn:btih:20a023eb5b83d9fee6aba27a8c92d9fedd535048
+magnet:?dn=xXx.Triple.X.2002.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih:319746e9019cb6f25aa3cae6124afcaadc0d9a64
 magnet:?dn=Yuri.Bezmenov.Ideological.Subversion.German&xt=urn:btih:dc9e3d8f3b8cc89a703fc162dd8aa6214d22ae26
 magnet:?dn=Zeitgeist.Addendum.-.deutsch.synchronisiert.-.HQ-DVDrip.avi&xt=urn:btih:d488fd81a7c384052f864c97c5dd2d9d3a748544
-magnet:?dn=stromberg_s1-4_bonus&xt=urn:btih:6bebdedf3d694e74f1467152598b0641563db203
-magnet:?dn=xXx.Triple.X.2002.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih:319746e9019cb6f25aa3cae6124afcaadc0d9a64
 ```
 
 </details>
