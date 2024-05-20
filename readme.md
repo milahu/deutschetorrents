@@ -88,3 +88,10 @@ siehe auch
 - https://www.torproject.org/
 - https://community.torproject.org/onion-services/setup/install/
 - https://askubuntu.com/questions/6522/how-to-install-tor
+
+
+
+## archiv
+
+- [archive.org](https://web.archive.org/web/*/https://github.com/milahu/deutschetorrents)
+- [archive.is](https://archive.is/2u9Gb)
