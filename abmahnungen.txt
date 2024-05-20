@@ -1,0 +1,188 @@
+es gibt immer wieder idioten, die sich von copyright-anwälten verarschen lassen.
+deswegen hier eine kurze aufklärung zur rechtslage in deutschland.
+
+runterladen ist immer legal.
+
+hochladen kann probleme machen
+
+1. wenn der rechteinhaber copyright-anwälte beauftragt hat
+2. wenn man einen deutschen internetanschluss nutzt (ohne VPN)
+
+das erste was passiert: post vom anwalt.
+der gegnerische anwalt fordert
+
+1. eine unterschriebene unterlassungserklärung = UE
+2. schadensersatz von circa 1000 euro
+
+weil so ein copyright-anwalt völlig unseriös ist,
+gibt er eine bedenkzeit von nur 2 wochen.
+er wird alle paar wochen einen neuen bettel-brief schreiben,
+jedes mal mit noch mehr forderungen: 1100, 1200, 1500, 2000, ...
+
+wirklich ernst wird es erst beim "roten brief" (mahnbescheid) vom mahngericht,
+dem muss man zu 100% widersprechen,
+sonst hat der gegner einen "titel", also anspruch auf geld,
+und dann kann er sich das geld holen per kontopfändung.
+
+dann hilft nur noch, wenn man schon insolvent ist
+und wenn man ein P-konto hat.
+P-konto = bankkonto mit pfändungsschutz.
+die "pfändungsfreigrenze" sind circa 1400 euro.
+
+auf die UE (unterlassungserklärung) hat er tatsächlich einen anspruch,
+also die UE kann er vor gericht einklagen.
+(bis er wirklich vor gericht geht, das kann dauern.)
+
+aber er hat *keinen* anspruch auf schadensersatz,
+aus dem einfachen grund: er kann den schaden nicht beweisen.
+
+der trick ist:
+der gegnerische anwalt schickt eine "UE plus",
+also eine unterlassungserklärung
+*plus* verpflichtung zur zahlung von schadensersatz.
+
+diese verpflichtung zur zahlung ist freiwillig!
+aber wenn man unterschreibt, dann ist die verpflichtung gültig,
+und dann *muss* man zahlen, sonst begeht man vertragsbruch.
+(pacta sunt servanda. verträge muss man erfüllen.)
+
+die billige lösung:
+man schickt eine *modifizierte* unterlassungserklärung = modUE,
+ohne verpflichtung zur zahlung.
+das kostet genau eine briefmarke, also aktuell 0,85 euro.
+einschreiben kann man sich sparen.
+
+mit einer modUE gibt man das versprechen:
+"ich werde diesen inhalt nie wieder hochladen."
+(das gilt für alle versionen und formate von diesem inhalt.)
+
+aber man kann die datei weiter über VPN hochladen,
+zum beispiel über einen VPN-server
+in spanien/schweiz/polen/holland/tschechien,
+dort ist auch das hochladen immer legal.
+
+statt VPN geht auch I2P
+https://geti2p.net/en/docs/applications/bittorrent
+https://tor.stackexchange.com/questions/64/how-can-bittorrent-traffic-be-anonymized-with-tor
+
+muster für so eine modUE gibts auf
+https://www.abmahnwahn-dreipage.de/
+
+hier eine kopie dieser muster-modUE:
+
+--
+
+An
+
+<Rechtsanwälte Musterpartnergesellschaft>
+<Mustermannstraße 12>
+<09090 Musterstadt>
+
+Unterlassungs- und Verpflichtungserklärung
+
+Aktenzeichen der Abmahnung: ____________________________
+
+Hiermit verpflichte ich,
+
+Herr/Frau ______________________________,
+(Vorname, Nachname)
+
+______________________________________,
+(Straße)
+
+_____________________________________,
+(PLZ, Wohnort)
+
+mich ohne Anerkennung einer rechtlichen Verpflichtung
+und ohne Präjudiz für die Sach- und Rechtslage,
+gleichwohl rechtsverbindlich, gegenüber der Firma
+
+<Musterrechteinhaber GmbH, Musterstraße 1, 51000 Musterberg,>
+
+nachfolgend "Unterlassungsgläubigerin" genannt,
+dazu, es bei Meidung einer für jeden Fall der
+Zuwiderhandlung von der Unterlassungsgläubigerin
+festzusetzende angemessene, im Streitfall
+durch das zuständige Amts- oder Landgericht
+zu überprüfende Vertragsstrafe,
+zu unterlassen, das geschützte Werk
+
+"<Mustertitel>"
+
+ganz oder Teile daraus öffentlich zugänglich zu machen
+bzw. öffentlich zugänglich machen zu lassen,
+insbesondere über sogenannte Tauschbörsen im Internet
+zum elektronischen Abruf bereitzuhalten
+bzw. dies über einen nicht hinreichend gesicherten
+WLAN Internetanschluss zu ermöglichen.
+
+<Musterstadt, den 1.1.2000>
+
+_________________________________
+(rechtsverbindliche Unterschrift)
+
+--
+
+modUE: nicht zahlen bei torrent abmahnung
+
+diesen text pack ich als "info.html#abmahnungen.txt" in meine deutschen torrents.
+bitte nachmachen und reposten, zum kampf gegen copyright-anwälte.
+
+aufklärung und "safe use" macht für mich mehr sinn als ALT (anti-leech tracker)
+und private tracker, wo anfänger nur schwer reinkommen.
+
+anti-leech ist sowieso kacke, ich will seeden weil der content gut ist,
+und nicht weil hobby-bürokraten mich zwingen.
+manche clients müssen leechen (mobilfunk oder kein VPN),
+und ich hab genug uplink für alle:
+4MB/s = 10TB/Monat = telekom VDSL 100+40 für 20 euro/monat.
+alle 6 monate mit kündigung drohen, dann bleibts bei 20 euro.
+
+ich will nicht wissen,
+wie viele familien schon streit hatten wegen copyright-abmahnungen,
+nur weil die eltern zu blöd sind zum googeln,
+und "einfach" die 1000 euro zahlen, und ihren kindern "filesharing" verbieten,
+mit dem spruch "wenn du was willst, dann musst du es kaufen".
+
+sich schämen, sich verstecken, angst haben... das hilft nur den copyright-anwälten.
+
+ich selber hab schon circa 20 modUE's geschickt, und es hat immer funktioniert.
+wenn du es testen willst, musst du 1000 euro riskieren...
+
+mittlerweile spar ich mir auch den VPN.
+es kommen zwar immer wieder diese bettel-briefe,
+aber die copyright-anwälte sind nur scharf aufs geld,
+und wenn einer nicht zahlt, dann ziehen die weiter,
+auf der suche nach idioten die zahlen - gibts ja genug.
+wie gesagt, das einzige was die vor gericht erzwingen können
+ist die unterlassungserklärung, aber die bringt denen kein geld.
+
+mittlerweile ignoriere ich alle abmahnungen.
+ganz selten kommt mal ein roter brief = mahnbescheid vom mahngericht,
+das ist das einzige wo ich reagiere, mit 100% widerspruch.
+
+mittlerweile ignoriere ich auch mahnbescheide.
+das kann ich mir leisten, weil ich bin schon insolvent.
+ich hab schon 50.000 euro schulden,
+und wenn da ein idiot noch 1000 euro drauflegt, mir egal,
+weil meine schulden werde ich *nie* zahlen.
+
+ist der ruf erst ruiniert, lebt es sich ganz ungeniert.
+die meisten (95%) werden eeh bald sterben...
+in dem sinn, viel spaß beim sterben : )
+
+siehe auch
+modUE: nicht zahlen bei torrent abmahnung
+https://www.szenebox.org/73-rechtsfragen/16280-modue-nicht-zahlen-bei-torrent-abmahnung/
+
+siehe auch
+Von uns bekommt ihr nix! Wie wir es schaffen nicht zahlen zu müssen
+https://vonunsbekommtihrnix.blackblogs.org/
+
+torrents hochladen
+https://thepiratebay.org/
+http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/
+https://solidtorrents.to/add-torrent
+
+meine deutschen torrents haben immer "german" im titel
+https://thepiratebay.org/search.php?q=german
