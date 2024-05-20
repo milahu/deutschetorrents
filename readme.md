@@ -95,3 +95,26 @@ siehe auch
 
 - [archive.org](https://web.archive.org/web/*/https://github.com/milahu/deutschetorrents)
 - [archive.is](https://archive.is/2u9Gb)
+
+
+
+## traffic
+
+```
+$ vnstat -m
+
+ enp0s25  /  monthly
+
+        month        rx      |     tx      |    total    |   avg. rate
+     ------------------------+-------------+-------------+---------------
+       2023-12    342.33 GiB |    6.25 TiB |    6.59 TiB |   21.63 Mbit/s
+       2024-01    459.55 GiB |    9.40 TiB |    9.85 TiB |   32.33 Mbit/s
+       2024-02    313.89 GiB |    7.26 TiB |    7.56 TiB |   26.55 Mbit/s
+       2024-03    517.71 GiB |    8.90 TiB |    9.41 TiB |   30.90 Mbit/s
+       2024-04    524.06 GiB |    8.63 TiB |    9.14 TiB |   31.02 Mbit/s
+```
+
+... ich seede also ungefähr 300 filme pro tag
+
+wenn filesharing verboten ist, wo sind dann die copyright-anwälte,
+die mir dafür jeden tag 300.000 euro "schadensersatz" in rechnung stellen? wo?!
