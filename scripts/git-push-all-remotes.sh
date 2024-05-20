@@ -1,6 +1,12 @@
 #!/usr/bin/env bash
 
-for remote in $(git remote show); do
+# push to clearnet remotes first, this is faster
+for remote in $(git remote show | grep -v '\.onion$'); do
+  echo "> git push $remote"
+  git push $remote
+done
+
+for remote in $(git remote show | grep '\.onion$'); do
   echo "> git push $remote"
   git push $remote
 done
