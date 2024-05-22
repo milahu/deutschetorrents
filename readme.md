@@ -38,6 +38,8 @@ magnet:?dn=Babylon.Berlin.2017.Season.1.S01.1080p.BluRay.x265.HEVC.10bit.EAC3.5.
 magnet:?dn=Babylon.Berlin.S01.COMPLETE.GERMAN.720p.10bit.WEBRip.2CH.x265.HE&xt=urn:btih:3161cb2ef0a1dd4a397fe6ac40d5b216a5c0f048
 magnet:?dn=Barbarians.2020.S01.COMPLETE.GERMAN.720p.NF.WEBRip.x264-GalaxyTVTGx&xt=urn:btih:56a595407bd49d077c93706e63b6ad29e200e757
 magnet:?dn=Blade.1998.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih:f0b6df1d4d48a866e2e2b71aab3cb6b776cd5207
+magnet:?dn=Boehse.Onkelz.Böhse.Onkelz.All.19.Albums.Complete.1984-2005&xt=urn:btih:5cd00448316d7461f925f2e00dd5f873d0bed049
+magnet:?dn=Boehse_Onkelz_lossy&xt=urn:btih:6aa471cccd94db62a47a9dd9acdb38e9da0ca1a6
 magnet:?dn=Dark.2017.Season.1-3.S01-S03.1080p.NF.WEB-DL.x265.HEVC.10bit.EAC3.5.1.German.&xt=urn:btih:8cfafd07713d735471727546e81f722f19f2ca73
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.2006.German.720p.x264.ac3&xt=urn:btih:5d86a63df6fe74069069135f79d7ea8fb0489069&xt=urn:btmh:1220a3bf723f8313c8810b3de0403d71c26d19e387e66e0511cf24d63842a868c971
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.Sterben.Ist.Scheisse.2006.German.720p.x264.ac3&xt=urn:btih:f0bf30407d78aa3324cbc1015ce695bb25bbb477&xt=urn:btmh:1220805bb3125437b18b72a30b66aec351c8cdba9694ef52da1504bbfad6e46df4d8
@@ -46,6 +48,8 @@ magnet:?dn=Die.Toten.Hosen.-.Alles.ohne.Strom.2019.320.KBPS&xt=urn:btih:272584ef
 magnet:?dn=Die.Toten.Hosen.-.Diskografie&xt=urn:btih:1e63a6b46ead0bb48094755e1718243e586e27fa
 magnet:?dn=Die.Toten.Hosen.-.Laune.der.Natur.2017&xt=urn:btih:d0269fdc253f8e26f1268cb615161a500eca3d64
 magnet:?dn=Die.Welle,.The.Wave.2008.DVDrip.German.English.Subs.Klam&xt=urn:btih:7290898069719a178049cb1032f9480eef7c85f4
+magnet:?dn=Die.Ärzte&xt=urn:btih:cbb792ae691047993a597a89079f38f896ec49af
+magnet:?dn=Die.Ärzte.-.Essentials.2020.Mp3.320kbps.PMEDIA&xt=urn:btih:a5b6396855a2717622647b4c4d01709d5d5aefb7
 magnet:?dn=Edukators&xt=urn:btih:2a542dadd9c8422ff9ee7fb2684fd11c27eee8ea
 magnet:?dn=Farin_Urlaub&xt=urn:btih:ee807ee79fd05d0dc4edf91e43f7062d345ed2c9
 magnet:?dn=Fight.Club.1999.German.Audiotrack.2ch.loud.aac.224kbps.23976fpms.21khz&xt=urn:btih:c4c66f874c7ff1c900d3c5236e6317b00e06dfac
@@ -84,6 +88,7 @@ magnet:?dn=SpongeBob.Schwammkopf.der.Film.German.Deutsch.2004.DVDRip&xt=urn:btih
 magnet:?dn=Stalingrad.1993.German.Film,.English.Dubbed,.Subtitles&xt=urn:btih:64b39c7171b551056808e293ca7c6017b2e64b05
 magnet:?dn=Stromberg.The.Movie.2014.BDRip.x264-JustWatch&xt=urn:btih:10cf0b0c792eb56486cd554f394d61d0eb7fc5f1
 magnet:?dn=stromberg_s1-4_bonus&xt=urn:btih:6bebdedf3d694e74f1467152598b0641563db203
+magnet:?dn=Terrorgruppe.Diskografie.1995.bis.2017.v20240522.German.Punkrock&xt=urn:btih:be32949ba7fdca4a60c1d83f0fa652569032dbb3
 magnet:?dn=The.Baader.Meinhof.Complex.2008.720p.BluRay.YTS.YIFY&xt=urn:btih:4affb4a61475f74c08f29a4a92e4def634b8b530
 magnet:?dn=The.Bone.Man.2009.720p.BluRay.YTS.MX&xt=urn:btih:5c5859b3e906202437a383d061b962a507b6b3e0
 magnet:?dn=The.Lives.of.Others.2006.1080p.BluRay.x264.German.AAC-ETRG&xt=urn:btih:51f1fcb4ff80aa243d94f751793aad48b2206bf3
