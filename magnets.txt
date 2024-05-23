@@ -14,6 +14,7 @@ magnet:?dn=Boehse_Onkelz_lossy&xt=urn:btih:6aa471cccd94db62a47a9dd9acdb38e9da0ca
 magnet:?dn=Dark.2017.Season.1-3.S01-S03.1080p.NF.WEB-DL.x265.HEVC.10bit.EAC3.5.1.German.&xt=urn:btih:8cfafd07713d735471727546e81f722f19f2ca73
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.2006.German.720p.x264.ac3&xt=urn:btih:5d86a63df6fe74069069135f79d7ea8fb0489069&xt=urn:btmh:1220a3bf723f8313c8810b3de0403d71c26d19e387e66e0511cf24d63842a868c971
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.Sterben.Ist.Scheisse.2006.German.720p.x264.ac3&xt=urn:btih:f0bf30407d78aa3324cbc1015ce695bb25bbb477&xt=urn:btmh:1220805bb3125437b18b72a30b66aec351c8cdba9694ef52da1504bbfad6e46df4d8
+magnet:?dn=Dennis.Lehane.-.Shutter.Island.Hoerbuch&xt=urn:btih:61255630fef3a2ed1ff12e373c3bc8f1238f1092
 magnet:?dn=Der.Wixxer--2004-German-1080p-x265.mkv&xt=urn:btih:f8a918fd5014cd3ce428eb962d989b932ff1a8e9
 magnet:?dn=Die.Toten.Hosen.-.Alles.ohne.Strom.2019.320.KBPS&xt=urn:btih:272584efebfc70915a5586172b54927076b13c6f
 magnet:?dn=Die.Toten.Hosen.-.Diskografie&xt=urn:btih:1e63a6b46ead0bb48094755e1718243e586e27fa
@@ -29,8 +30,14 @@ magnet:?dn=Free.Rainer.Dein.Fernseher.lügt.2007.German.x264.360p&xt=urn:btih:8e
 magnet:?dn=Futurama.S06E07.The.Late.Philip.J.Fry.German.Audiotrack.23.976fps&xt=urn:btih:76982a019e8f46d4277f9500816b78d0b5f66d1c&xt=urn:btmh:122016f8e36045d508880b95100a677edfca5c7babb5eda0662199bdf5a11b8e179a
 magnet:?dn=Geboren.in.Absurdistan.Deutsch.-.Xvid.moviesbyrizzo&xt=urn:btih:6b9a2e7bda1805415272daadc3015a43dc44f7c1
 magnet:?dn=German.Book.Megapack&xt=urn:btih:78e9edab374094d9007d497811a2cad2aaab284f
+magnet:?dn=Harry.Potter.Audiobooks.1-7.Hörbuch,.German,.Deutsch,.DE.J.K..Rowling,.Rufus.Beck.Opus,.epub&xt=urn:btih:2f528afca872c6c4530d84199cea33e5191673a9
+magnet:?dn=Heinrich.Boell.-.Dr..Murkes.gesammeltes.Schweigen.Hoerbuch+Text&xt=urn:btih:ef8e98245d090a3c5870717b3aff6594c20b8518
+magnet:?dn=Hoerbuch.-.Erich.Maria.Remarque.-.Sag.mir,.dass.du.mich.liebst.192kbs&xt=urn:btih:c072fcc32ab8b6b2c649858dccfdd50f19ae2022
+magnet:?dn=Hoerbuch.Cornelia.Funke.Tintenherz&xt=urn:btih:e603bb71d9ede9a5305c24ae16f4a12a44a9c6f2
 magnet:?dn=Idiocracy.2006.720p.Bluray.x264.MoviesFD.German.Audiotrack&xt=urn:btih:3615a7f7651f428d35ce0b5af43f2c4b2e72ca2a&xt=urn:btmh:1220097ed5dd657b4dd8487ef881f8b763b1364e99921a0525061ad152bf4c35d30b
 magnet:?dn=Idiocracy.2006.German.English.DL.720p.x264.ac3&xt=urn:btih:09efdae290d3e1268167f5909db4c1ad67996f7a&xt=urn:btmh:12204a454110a6e6a3c14532c2511ae3105ce67b552549a309bdba2cfd0e409a1686
+magnet:?dn=Joseph.Fouché.Hörbuch&xt=urn:btih:1ea3c8f015dbc822f007d059fa2c424a3e2a484e
+magnet:?dn=Karl.May.-.Winnetou.I.Hoerbuch&xt=urn:btih:f8cccccc7115cab021e9286cfaf1e1de0ee2a141
 magnet:?dn=Kategorie.C&xt=urn:btih:4f9414395ed4ab99103586684a786acdb90cbe6a
 magnet:?dn=KIZ.K.I.Z.Kannibalen.In.Zivil.Diskografie.2005.bis.2021.Deutschrap.German&xt=urn:btih:40b1b06fb7890659d6083659c9895623b1e6fbb6&xt=urn:btmh:12208abef175a14f7f5f4a57ccf986c5feb566ed1b1cb2f1020b6d3d453590fc4262
 magnet:?dn=Komm,.süsser.Tod.AKA.Come.Sweet.Death.2000.1080p.mkv&xt=urn:btih:28ef36af957f21d86b533fd3b50a8f0de359b14e
@@ -43,6 +50,7 @@ magnet:?dn=Männer.Frauen.Menschen.2022.720p.Jan.Oechsner.Feminismus&xt=urn:btih
 magnet:?dn=Network.1976.DL.English.German.720p.x264.SUJAIDR&xt=urn:btih:da72fc129a1d90b609a5124fe6a074ddefc0f077
 magnet:?dn=Network.1976.German.Audiotrack&xt=urn:btih:a5bd06e218c3a0e5d8db6ce8f185376a28216bb6&xt=urn:btmh:12200a7042e266b790588558d2ec3486e99dca03e9c7c34a4d40c046026da0f841a3
 magnet:?dn=NSL.Archiv&xt=urn:btih:81ded8a0174a7a88c93a1e0e253d79b477759f3e
+magnet:?dn=Paulo.Coelho:.Elf.Minuten.Hoerbuch...Ebook.Deutsch&xt=urn:btih:2c8e9de0b07896dd76146f1218512a12b9a062e2
 magnet:?dn=Peter.Hahne.Seid.ihr.noch.ganz.bei.Trost.2020.German.Audiobook.mp3.128kbps.17khz&xt=urn:btih:5d11a45a3bbe661f7e3fb848fc90318a6cf1ab3e
 magnet:?dn=Pulp.Fiction.1994.German.Audiotrack.aac.6ch.23976fpms&xt=urn:btih:d41a9d6d32550513879031471b623ee1673b980c
 magnet:?dn=Rakede.-.Es.geht.mir.gut.2017&xt=urn:btih:74343adc69f35b9b5d1c4536645d980886a49623&xt=urn:btmh:122074f770d3487fae55caed4f2070421961d5ee3f29fb1af945110edf3f549a564d
@@ -74,6 +82,7 @@ magnet:?dn=Thilo.Sarrazin.Wir.schaffen.das.2021.German.Audiobook.mp3.17khz&xt=ur
 magnet:?dn=Thilo.Sarrazin.Wunschdenken.2022.German.Audiobook.mp3.17khz&xt=urn:btih:df49b22ce3c55bba4f51b07df092d86d418fc6b1
 magnet:?dn=Titanic.1943.Xvid.1cd.-.German.Epic.-.Eng.Subs.-.Sybille.Schmi&xt=urn:btih:9b19b9dbca5cb62e49150b8dc5ba8adcb11d4d17
 magnet:?dn=Torch.Blauer.Samt.2000.192k.mp3.German.Hiphop&xt=urn:btih:2122df6e9661477724a17d99dd5dbfda33a1586d
+magnet:?dn=Tschick&xt=urn:btih:6746dfca85dd81efb3306d1d986cc381962f86e3
 magnet:?dn=Udo.Ulfkotte.So.lügen.Journalisten.2007.German.Audiobook.mp3.20khz&xt=urn:btih:404993d97e7eada3d5e4cdc336832d6c3a005031
 magnet:?dn=Vera.Birkenbihl.-.Spanisch.fuer.Einsteiger.1%262&xt=urn:btih:84068531019071d942abf431828eb7aa95150f75
 magnet:?dn=Werner.-.Beinhart!.Broesel.DVDrip.deutsch&xt=urn:btih:ea8e9d3b22e0107d4d95bf09a5a97e1ac31fae37
