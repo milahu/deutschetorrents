@@ -31,7 +31,7 @@ magnet:?dn=Futurama.S06E07.The.Late.Philip.J.Fry.German.Audiotrack.23.976fps&xt=
 magnet:?dn=Geboren.in.Absurdistan.Deutsch.-.Xvid.moviesbyrizzo&xt=urn:btih:6b9a2e7bda1805415272daadc3015a43dc44f7c1
 magnet:?dn=German.Book.Megapack&xt=urn:btih:78e9edab374094d9007d497811a2cad2aaab284f
 magnet:?dn=Harry.Potter.Audiobooks.1-7.Hörbuch,.German,.Deutsch,.DE.J.K..Rowling,.Rufus.Beck.Opus,.epub&xt=urn:btih:2f528afca872c6c4530d84199cea33e5191673a9
-magnet:?dn=Heinrich.Boell.-.Dr..Murkes.gesammeltes.Schweigen.Hoerbuch+Text&xt=urn:btih:ef8e98245d090a3c5870717b3aff6594c20b8518
+magnet:?dn=Heinrich.Boell.-.Dr..Murkes.gesammeltes.Schweigen.Hoerbuch.Text&xt=urn:btih:ef8e98245d090a3c5870717b3aff6594c20b8518
 magnet:?dn=Hoerbuch.-.Erich.Maria.Remarque.-.Sag.mir,.dass.du.mich.liebst.192kbs&xt=urn:btih:c072fcc32ab8b6b2c649858dccfdd50f19ae2022
 magnet:?dn=Hoerbuch.Cornelia.Funke.Tintenherz&xt=urn:btih:e603bb71d9ede9a5305c24ae16f4a12a44a9c6f2
 magnet:?dn=Idiocracy.2006.720p.Bluray.x264.MoviesFD.German.Audiotrack&xt=urn:btih:3615a7f7651f428d35ce0b5af43f2c4b2e72ca2a&xt=urn:btmh:1220097ed5dd657b4dd8487ef881f8b763b1364e99921a0525061ad152bf4c35d30b
@@ -84,6 +84,7 @@ magnet:?dn=Titanic.1943.Xvid.1cd.-.German.Epic.-.Eng.Subs.-.Sybille.Schmi&xt=urn
 magnet:?dn=Torch.Blauer.Samt.2000.192k.mp3.German.Hiphop&xt=urn:btih:2122df6e9661477724a17d99dd5dbfda33a1586d
 magnet:?dn=Tschick&xt=urn:btih:6746dfca85dd81efb3306d1d986cc381962f86e3
 magnet:?dn=Udo.Ulfkotte.So.lügen.Journalisten.2007.German.Audiobook.mp3.20khz&xt=urn:btih:404993d97e7eada3d5e4cdc336832d6c3a005031
+magnet:?dn=Utopia.2020.S01.Complete.German.Audiotrack.2ch.aac.23976fpms.20khz&xt=urn:btih:f04d39a6e613ca82c62d25bbb233488cb6d64bc6
 magnet:?dn=Vera.Birkenbihl.-.Spanisch.fuer.Einsteiger.1%262&xt=urn:btih:84068531019071d942abf431828eb7aa95150f75
 magnet:?dn=Werner.-.Beinhart!.Broesel.DVDrip.deutsch&xt=urn:btih:ea8e9d3b22e0107d4d95bf09a5a97e1ac31fae37
 magnet:?dn=Werner.-.Das.muss.kesseln!!!.Broesel.DVDrip.deutsch&xt=urn:btih:5ee67c192f445b273e183d4cde54b9d35b1b9548
