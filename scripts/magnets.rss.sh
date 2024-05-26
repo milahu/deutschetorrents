@@ -60,6 +60,8 @@ cat <<EOF
     <title>$(escape_html "$channel_title")</title>
     <description>$(escape_html "$channel_description")</description>
     <link>https://github.com/milahu/deutschetorrents</link>
+    <link>http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/deutschetorrents#darktea.onion</link>
+    <link>http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/deutschetorrents#righttoprivacy.onion</link>
     <copyright>public domain</copyright>
     <category></category>
     <ttl>$channel_ttl</ttl>
