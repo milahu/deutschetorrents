@@ -59,6 +59,7 @@ magnet:?dn=First.Snow.of.Summer.2023.GERMAN.1080p.HMAX.WEBRip.DDP5.1.x265.1&xt=u
 magnet:?dn=Free.Rainer.Dein.Fernseher.lügt.2007.German.x264.360p&xt=urn:btih:8e94ad540975581b40d03780ba5168746aca05f6
 magnet:?dn=Futurama.S06E07.The.Late.Philip.J.Fry.German.Audiotrack.23.976fps&xt=urn:btih:76982a019e8f46d4277f9500816b78d0b5f66d1c&xt=urn:btmh:122016f8e36045d508880b95100a677edfca5c7babb5eda0662199bdf5a11b8e179a
 magnet:?dn=Geboren.in.Absurdistan.Deutsch.-.Xvid.moviesbyrizzo&xt=urn:btih:6b9a2e7bda1805415272daadc3015a43dc44f7c1
+magnet:?dn=George.Orwell.1984.2021.German.Audiobook.Christoph.Maria.Herbst&xt=urn:btih:c87504744b0e1c3c1ff9a2a3b6af4358b8f08ff3
 magnet:?dn=George.Orwell.Fido.Nesti.1984.2021.German.Graphic.Novel&xt=urn:btih:2d916940479c8f6e9ac9fc884f047d99791eb8d4
 magnet:?dn=German.Book.Megapack&xt=urn:btih:78e9edab374094d9007d497811a2cad2aaab284f
 magnet:?dn=Harry.Potter.Audiobooks.1-7.Hörbuch,.German,.Deutsch,.DE.J.K..Rowling,.Rufus.Beck.Opus,.epub&xt=urn:btih:2f528afca872c6c4530d84199cea33e5191673a9
