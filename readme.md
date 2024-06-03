@@ -31,6 +31,7 @@ magnet:?dn=1984..-..Film.nach.George.Orwell.in.deutsch/german&xt=urn:btih:f71496
 magnet:?dn=28.Days.Later.2002.German.Audiotrack.2ch.aac.20khz.23976fpms.loud&xt=urn:btih:caf2ab82311d4862411d2fb96e3e3a454f5ea76d
 magnet:?dn=28.Days.Later.2002.German.Audiotrack.6ch.dts.20khz.23976fpms.quiet&xt=urn:btih:435f312b9e5c8a7a41a972fdc0d5a19761e4344d
 magnet:?dn=Afire.2023.GERMAN.720p.WEBRip-WORLD&xt=urn:btih:5d37b49d9d4ea977f045ccbce7600e3805a1a91c
+magnet:?dn=Aldous.Huxley.Schöne.Neue.Welt.1984.German.Audiobook.Wolf.Euba&xt=urn:btih:ddbca7cb4ae93cac3290e954accb4c058239ad15
 magnet:?dn=All.Quiet.on.the.Western.Front.2022.GERMAN.1080p.NF.WEBRip.DDP5.1.Atmos.x264-SMU&xt=urn:btih:57b004e743a1645d42f91f39320186d42becfecf
 magnet:?dn=Angst.essen.Seele.auf.1974&xt=urn:btih:8c2382a661f7e2c49e633c47a0836d4164258a4a
 magnet:?dn=Angst.Essen.Seele.Auf.Sonata.Premiere&xt=urn:btih:cc7493d3689d9c95c96e7111bbca3b7f12923eb3
