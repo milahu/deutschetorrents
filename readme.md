@@ -79,6 +79,7 @@ magnet:?dn=Komm,.süsser.Tod.AKA.Come.Sweet.Death.2000.1080p.mkv&xt=urn:btih:28e
 magnet:?dn=Labrassbanda--Europa-2013-OMArarbg&xt=urn:btih:e9fa70b486eb6c1cbf2bca9edd6561c2dcd927a2
 magnet:?dn=LaBrassBanda.-.Habediehre.2008&xt=urn:btih:7ae303bb3a0e918d43e8a075158bc42de6a61b97
 magnet:?dn=LaBrassBanda.-.Uebersee.2009&xt=urn:btih:321d8f26ac4de319ad2980f0c4744e698a29152d
+magnet:?dn=Lammbock.2001.German.720p.x264&xt=urn:btih:4599cc7259801bc4aca3a1528bde3671b3dd53e8
 magnet:?dn=Life.Eternal.2015.1080p.BluRay.x264.ger.russ.mkv&xt=urn:btih:bdc619c218d902cb9ef6fb24c660dd99c397ad88
 magnet:?dn=Live.is.Life..Die.Spätzünder.2010.WEBDL.720p.Ukr_Ger.Hurtom.mkv&xt=urn:btih:29b0e062fe3c2124e7025e423f928be64b0125b2
 magnet:?dn=Lord.Of.The.Weed.2014.German.Parody.720p&xt=urn:btih:f26d6a41d8990943cc0c8f577ad0c0de056fe02c
