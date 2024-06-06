@@ -91,6 +91,7 @@ magnet:?dn=The.Bone.Man.2009.720p.BluRay.YTS.MX&xt=urn:btih:5c5859b3e906202437a3
 magnet:?dn=The.Lives.of.Others.2006.1080p.BluRay.x264.German.AAC-ETRG&xt=urn:btih:51f1fcb4ff80aa243d94f751793aad48b2206bf3
 magnet:?dn=The.Lives.Of.Others.2006.BluRay.720p.YTS.AM&xt=urn:btih:1f2dadfe2f4f1bdd56bf71e3f475122a66644a58
 magnet:?dn=The.Trades.S01E01.The.German.Robot.720p.AMZN.WEB-DL.DDP5.1.H.264-FLUX&xt=urn:btih:fb9ed977ad8d0219e6857a6d9283b0cf69df6178
+magnet:?dn=The.Twelve.Tasks.Of.Asterix.1976.German.Audiotrack.Bayerisch.23976fpms&xt=urn:btih:58c66cbf45818b472a3094b458e43182a3152c9a
 magnet:?dn=The.Zone.of.Interest.2023.GERMAN.1080p.AMZN.WEBRip.DDP5.1.x265.1&xt=urn:btih:6c642b4dbdd506675db19d6ecfd521c2ba76f313
 magnet:?dn=The.Zone.of.Interest.2023.GERMAN.720p.AMZN.WEBRip.800MB.x264-Gal&xt=urn:btih:e8ffdbcf0da58d8e7dea9c037dc47ef6334f712b
 magnet:?dn=Thilo.Sarrazin.Der.neue.Tugendterror.2014.mp3.16khz&xt=urn:btih:a87d45f697ada00e5267a5021ed5932e4aa64ab8
