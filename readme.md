@@ -137,10 +137,7 @@ magnet:?dn=Utopia.2020.S01.Complete.German.Audiotrack.2ch.aac.23976fpms.20khz&xt
 magnet:?dn=Vera.Birkenbihl.-.Spanisch.fuer.Einsteiger.1%262&xt=urn:btih:84068531019071d942abf431828eb7aa95150f75
 magnet:?dn=Volker.ter.Haseborg.Die.Wirecard-Story.2021.German.Audiobook.mp3.17khz&xt=urn:btih:c7fd866705509ced20c3824a3e9b601ebf03c56f
 magnet:?dn=We.Feed.The.World.divx.mp3.avi&xt=urn:btih:9d7156ac3247887cabf0c7409a339ad313c07009
-magnet:?dn=Werner.-.Beinhart!.Broesel.DVDrip.deutsch&xt=urn:btih:ea8e9d3b22e0107d4d95bf09a5a97e1ac31fae37
-magnet:?dn=Werner.-.Das.muss.kesseln!!!.Broesel.DVDrip.deutsch&xt=urn:btih:5ee67c192f445b273e183d4cde54b9d35b1b9548
-magnet:?dn=Werner.-.Gekotzt.wird.spaeter.Broesel.DVDrip.deutsch&xt=urn:btih:5592fc2547823e0dfdb5d2c4a9889bf34a6bfd57
-magnet:?dn=Werner.-.Volles.Rooaaa!!!.Broesel.DVDrip.deutsch&xt=urn:btih:20a023eb5b83d9fee6aba27a8c92d9fedd535048
+magnet:?dn=Werner.-.Beinhart.1990.WEB-DL.1080p.rus-ger.6ch-quiet.ac3-640.subs.mkv&xt=urn:btih:ef1ebfd814a337e980f5426ce35d7dd9d48a5228
 magnet:?dn=Wolf.Haas&xt=urn:btih:fe0787d0c25449f976655d21e93df8b060ddb211
 magnet:?dn=World.War.Z.2013.German.Audiotrack.2ch.23976fpms.aac.20khz&xt=urn:btih:c24c5203a755b191c2aac585c09df914557c1514
 magnet:?dn=xXx.Triple.X.2002.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih:319746e9019cb6f25aa3cae6124afcaadc0d9a64
