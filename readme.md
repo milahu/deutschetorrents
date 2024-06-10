@@ -61,6 +61,7 @@ magnet:?dn=Die.Welle,.The.Wave.2008.DVDrip.German.English.Subs.Klam&xt=urn:btih:
 magnet:?dn=Die.Welle.Aka.The.Wave.2008.720p.BluRay.x264.anoXmous&xt=urn:btih:60b7064378ec2433d0c819a0a096114e7d2e5a86
 magnet:?dn=Die.Ärzte&xt=urn:btih:cbb792ae691047993a597a89079f38f896ec49af
 magnet:?dn=Die.Ärzte.-.Essentials.2020.Mp3.320kbps.PMEDIA&xt=urn:btih:a5b6396855a2717622647b4c4d01709d5d5aefb7
+magnet:?dn=Eternal.Sunshine.of.the.Spotless.Mind.2004.German.Audiotrack.Vergiss.mein.nicht.24fps&xt=urn:btih:22c6f99b86e43021fa03dcea066f9927eeab1905
 magnet:?dn=Farin_Urlaub&xt=urn:btih:ee807ee79fd05d0dc4edf91e43f7062d345ed2c9
 magnet:?dn=Felix.Holtermann.Geniale.Betrüger.Wirecard.2021.German.Audiobook&xt=urn:btih:09cbb664ccca5063c221d3c2dd3a9887b3846b43
 magnet:?dn=Fight.Club.1999.German.Audiotrack.2ch.loud.aac.224kbps.23976fpms.21khz&xt=urn:btih:c4c66f874c7ff1c900d3c5236e6317b00e06dfac
