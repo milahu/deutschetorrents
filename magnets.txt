@@ -18,7 +18,7 @@ magnet:?dn=Boehse.Onkelz.Böhse.Onkelz.All.19.Albums.Complete.1984-2005&xt=urn:b
 magnet:?dn=Boehse_Onkelz_lossy&xt=urn:btih:6aa471cccd94db62a47a9dd9acdb38e9da0ca1a6
 magnet:?dn=Charles.Duhigg.Die.Macht.der.Gewohnheit.2020.German.Audiobook.mp3.17khz&xt=urn:btih:4ae98b22696e2a532d962d2e7dd3eeebc0dab21d
 magnet:?dn=Dan.McCrum.House.of.Wirecard.2022.German.Audiobook&xt=urn:btih:e8796632edbb16da88d2f7cda0f9f1306e3a0ef1
-magnet:?dn=Daniel.Kahneman.Schnelles.Denken.Langsames.Denken.2012.German.Audiobook.mp3.16khz&xt=urn:btih:30cf3133f6d8545684b75c60436c57b00a27b22b
+magnet:?dn=Daniel.Kahneman.Schnelles.Denken.Langsames.Denken.2012.German.Audiobook&xt=urn:btih:0c1144836f7ac9aadb8af799d7e05332485e6dc9
 magnet:?dn=Dark.2017.Season.1-3.S01-S03.1080p.NF.WEB-DL.x265.HEVC.10bit.EAC3.5.1.German.&xt=urn:btih:8cfafd07713d735471727546e81f722f19f2ca73
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.2006.German.720p.x264.ac3&xt=urn:btih:5d86a63df6fe74069069135f79d7ea8fb0489069&xt=urn:btmh:1220a3bf723f8313c8810b3de0403d71c26d19e387e66e0511cf24d63842a868c971
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.Sterben.Ist.Scheisse.2006.German.720p.x264.ac3&xt=urn:btih:f0bf30407d78aa3324cbc1015ce695bb25bbb477&xt=urn:btmh:1220805bb3125437b18b72a30b66aec351c8cdba9694ef52da1504bbfad6e46df4d8
@@ -32,14 +32,14 @@ magnet:?dn=Die.Welle,.The.Wave.2008.DVDrip.German.English.Subs.Klam&xt=urn:btih:
 magnet:?dn=Die.Welle.Aka.The.Wave.2008.720p.BluRay.x264.anoXmous&xt=urn:btih:60b7064378ec2433d0c819a0a096114e7d2e5a86
 magnet:?dn=Die.Ärzte&xt=urn:btih:cbb792ae691047993a597a89079f38f896ec49af
 magnet:?dn=Die.Ärzte.-.Essentials.2020.Mp3.320kbps.PMEDIA&xt=urn:btih:a5b6396855a2717622647b4c4d01709d5d5aefb7
-magnet:?dn=Eternal.Sunshine.of.the.Spotless.Mind.2004.German.Audiotrack.Vergiss.mein.nicht.24fps&xt=urn:btih:22c6f99b86e43021fa03dcea066f9927eeab1905
+magnet:?dn=Eternal.Sunshine.of.the.Spotless.Mind.2004.German.Audiotrack&xt=urn:btih:4b0e656bf5ecbd07f83e867bcbee986cd3beba67
 magnet:?dn=Farin_Urlaub&xt=urn:btih:ee807ee79fd05d0dc4edf91e43f7062d345ed2c9
 magnet:?dn=Felix.Holtermann.Geniale.Betrüger.Wirecard.2021.German.Audiobook&xt=urn:btih:09cbb664ccca5063c221d3c2dd3a9887b3846b43
 magnet:?dn=Fight.Club.1999.German.Audiotrack.2ch.loud.aac.224kbps.23976fpms.21khz&xt=urn:btih:c4c66f874c7ff1c900d3c5236e6317b00e06dfac
 magnet:?dn=First.Snow.of.Summer.2023.GERMAN.1080p.HMAX.WEBRip.DDP5.1.x265.1&xt=urn:btih:efa8707a55c5ad69e5319be638c898fce26ea634
 magnet:?dn=Food.Matters.2008.German.Doku.Du.bist.was.du.isst.2010.360p&xt=urn:btih:0eef07233f61bb44c238b1ccc551e53b146a0f41
 magnet:?dn=Free.Rainer.Dein.Fernseher.lügt.2007.German.x264.360p&xt=urn:btih:8e94ad540975581b40d03780ba5168746aca05f6
-magnet:?dn=Friedrich.Nietzsche.Götzen-Dämmerung.oder.Wie.man.mit.dem.Hammer.philosophiert.2016.German.Audiobook&xt=urn:btih:9bc4050ca5b54c684bb6f54a5333054c2a2b374f
+magnet:?dn=Friedrich.Nietzsche.Götzen-Dämmerung.2016.German.Audiobook&xt=urn:btih:4654d17f3c6470b59df7ed9450bb8bc3c0f556be
 magnet:?dn=Futurama.S06E07.The.Late.Philip.J.Fry.German.Audiotrack.23.976fps&xt=urn:btih:76982a019e8f46d4277f9500816b78d0b5f66d1c&xt=urn:btmh:122016f8e36045d508880b95100a677edfca5c7babb5eda0662199bdf5a11b8e179a
 magnet:?dn=Geboren.in.Absurdistan.Deutsch.-.Xvid.moviesbyrizzo&xt=urn:btih:6b9a2e7bda1805415272daadc3015a43dc44f7c1
 magnet:?dn=George.Orwell.1984.2013.German.Audiobook.Sebastian.Rudolph.12khz&xt=urn:btih:04efdb543153ed2c7d4223676b1aa93094f69e3e
@@ -91,7 +91,7 @@ magnet:?dn=South.Park.Bigger.Longer.and.Uncut.1999.720p.BluRay.x264.YIFY.DL.Germ
 magnet:?dn=South.Park.S01.Complete.German.Audiotrack.ac3.20khz.23976fpms&xt=urn:btih:5bfdab3d6e32e05a2762f75a0fdd1136fec098e4
 magnet:?dn=SpongeBob.Schwammkopf.der.Film.German.Deutsch.2004.DVDRip&xt=urn:btih:5f0c4b3217c830c87d79b50466e8abb3d066c803
 magnet:?dn=Stalingrad.1993.German.Film,.English.Dubbed,.Subtitles&xt=urn:btih:64b39c7171b551056808e293ca7c6017b2e64b05
-magnet:?dn=Stephan.Zantke.Wenn.Deutschland.so.scheiße.ist.warum.sind.Sie.dann.hier.2019.German.Audiobook.17khz&xt=urn:btih:ea772dfc417841a3f279d3aaa031916f321f96e7
+magnet:?dn=Stephan.Zantke.Wenn.Deutschland.so.scheiße.ist.2019.German.Audiobook&xt=urn:btih:1b72c2cc9033b1b656597fe30f51c42dfb82d9e4
 magnet:?dn=Stromberg.The.Movie.2014.BDRip.x264-JustWatch&xt=urn:btih:10cf0b0c792eb56486cd554f394d61d0eb7fc5f1
 magnet:?dn=stromberg_s1-4_bonus&xt=urn:btih:6bebdedf3d694e74f1467152598b0641563db203
 magnet:?dn=Sun.Zi.Die.Kunst.des.Krieges.2024.German.Audiobook.mp3.17khz&xt=urn:btih:c95fc4581fa2e8ef71c908251b16b166ab93f890
@@ -108,7 +108,7 @@ magnet:?dn=The.Zone.of.Interest.2023.GERMAN.1080p.AMZN.WEBRip.DDP5.1.x265.1&xt=u
 magnet:?dn=The.Zone.of.Interest.2023.GERMAN.720p.AMZN.WEBRip.800MB.x264-Gal&xt=urn:btih:e8ffdbcf0da58d8e7dea9c037dc47ef6334f712b
 magnet:?dn=Thilo.Sarrazin.Der.neue.Tugendterror.2014.mp3.16khz&xt=urn:btih:a87d45f697ada00e5267a5021ed5932e4aa64ab8
 magnet:?dn=Thilo.Sarrazin.Der.Staat.an.seinen.Grenzen.2020.German.Audiobook.mp3.17khz&xt=urn:btih:f13e5e06de6165e494fbcbeda8c8acbc08d64ce5
-magnet:?dn=Thilo.Sarrazin.Deutschland.schafft.sich.ab.2011.German.Audiobook.mp3.160kbps.17khz&xt=urn:btih:0889869735e3f4f82e717ba87db50c24acaf6f20
+magnet:?dn=Thilo.Sarrazin.Deutschland.schafft.sich.ab.2011.German.Audiobook.mp3.17khz&xt=urn:btih:0a4df9db8938536bfbebb2db8ae9015cfd9cffff
 magnet:?dn=Thilo.Sarrazin.Die.Vernunft.und.ihre.Feinde.2022.German.Audiobook.mp3.17khz&xt=urn:btih:54f89357adbf2e2382e570ec4cdb3d7ad55f234a
 magnet:?dn=Thilo.Sarrazin.Wir.schaffen.das.2021.German.Audiobook.mp3.17khz&xt=urn:btih:3cd343e4e8843601d55338135613882a8fc2fc7e
 magnet:?dn=Thilo.Sarrazin.Wunschdenken.2022.German.Audiobook.mp3.17khz&xt=urn:btih:df49b22ce3c55bba4f51b07df092d86d418fc6b1
