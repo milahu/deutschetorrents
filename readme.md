@@ -47,6 +47,7 @@ magnet:?dn=Blade.1998.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih
 magnet:?dn=Boehse.Onkelz.Böhse.Onkelz.All.19.Albums.Complete.1984-2005&xt=urn:btih:5cd00448316d7461f925f2e00dd5f873d0bed049
 magnet:?dn=Boehse_Onkelz_lossy&xt=urn:btih:6aa471cccd94db62a47a9dd9acdb38e9da0ca1a6
 magnet:?dn=Charles.Duhigg.Die.Macht.der.Gewohnheit.2020.German.Audiobook.mp3.17khz&xt=urn:btih:4ae98b22696e2a532d962d2e7dd3eeebc0dab21d
+magnet:?dn=Citizenfour.2014.German.Audiotrack.23976fpms.aac.18khz&xt=urn:btih:c1d04ab194456fdde3307910d36874db8555455d
 magnet:?dn=Dan.McCrum.House.of.Wirecard.2022.German.Audiobook&xt=urn:btih:e8796632edbb16da88d2f7cda0f9f1306e3a0ef1
 magnet:?dn=Daniel.Kahneman.Schnelles.Denken.Langsames.Denken.2012.German.Audiobook&xt=urn:btih:0c1144836f7ac9aadb8af799d7e05332485e6dc9
 magnet:?dn=Dark.2017.Season.1-3.S01-S03.1080p.NF.WEB-DL.x265.HEVC.10bit.EAC3.5.1.German.&xt=urn:btih:8cfafd07713d735471727546e81f722f19f2ca73
