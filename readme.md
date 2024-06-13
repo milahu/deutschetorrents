@@ -102,6 +102,7 @@ magnet:?dn=Maren.Urner.Radikal.emotional.2024.German.Audiobook.mp3.17khz&xt=urn:
 magnet:?dn=Max.Krone.Manipulation.und.Körpersprache.2020.German.Audiobook.mp3.12khz&xt=urn:btih:fcdc09b71a41735b030057650da21d791a29cdea
 magnet:?dn=Michael.Nehls.Das.indoktrinierte.Gehirn.2024.German.Audiobook.mp3.17khz&xt=urn:btih:eb0c427422b689f93564efd5eb52bfc6559d31e2
 magnet:?dn=Männer.Frauen.Menschen.2022.720p.Jan.Oechsner.Feminismus&xt=urn:btih:75e224fa849cb5229697df3ae45d3246d63801dd&xt=urn:btmh:1220b0ca48f7144835bb8bc75380ba17a8b7dc599dd12602fd217e5e3c90d3bc480d
+magnet:?dn=Nassim.Nicholas.Taleb.Narren.des.Zufalls.2023.German.Audiobook.mp3.128k&xt=urn:btih:912ec718e4b025bf57042a827d05a2ea80d8d32e
 magnet:?dn=Network.1976.DL.English.German.720p.x264.SUJAIDR&xt=urn:btih:da72fc129a1d90b609a5124fe6a074ddefc0f077
 magnet:?dn=Network.1976.German.Audiotrack&xt=urn:btih:a5bd06e218c3a0e5d8db6ce8f185376a28216bb6&xt=urn:btmh:12200a7042e266b790588558d2ec3486e99dca03e9c7c34a4d40c046026da0f841a3
 magnet:?dn=NSL.Archiv&xt=urn:btih:81ded8a0174a7a88c93a1e0e253d79b477759f3e
