@@ -88,7 +88,7 @@ magnet:?dn=John.Wick.2014.German.Audiotrack.23976fpms&xt=urn:btih:da3d8f1df96501
 magnet:?dn=Joseph.Fouché.Hörbuch&xt=urn:btih:1ea3c8f015dbc822f007d059fa2c424a3e2a484e
 magnet:?dn=Karl.May.-.Winnetou.I.Hoerbuch&xt=urn:btih:f8cccccc7115cab021e9286cfaf1e1de0ee2a141
 magnet:?dn=Kategorie.C&xt=urn:btih:4f9414395ed4ab99103586684a786acdb90cbe6a
-magnet:?dn=KIZ.K.I.Z.Kannibalen.In.Zivil.Diskografie.2005.bis.2021.Deutschrap.German&xt=urn:btih:40b1b06fb7890659d6083659c9895623b1e6fbb6&xt=urn:btmh:12208abef175a14f7f5f4a57ccf986c5feb566ed1b1cb2f1020b6d3d453590fc4262
+magnet:?dn=KIZ.K.I.Z.Kannibalen.In.Zivil.2005-2021.German.Hiphop&xt=urn:btih:37bc0b49ee68f3e06c6f63d59a3a71f5fc611cbd
 magnet:?dn=Kleines.Arschloch.1997.German.720p.x264.aac&xt=urn:btih:ed5e6f474baa8ce6434dbb6c1061655804296b44
 magnet:?dn=Komm,.süsser.Tod.AKA.Come.Sweet.Death.2000.1080p.mkv&xt=urn:btih:28ef36af957f21d86b533fd3b50a8f0de359b14e
 magnet:?dn=Labrassbanda--Europa-2013-OMArarbg&xt=urn:btih:e9fa70b486eb6c1cbf2bca9edd6561c2dcd927a2
