@@ -50,6 +50,7 @@ magnet:?dn=Charles.Duhigg.Die.Macht.der.Gewohnheit.2020.German.Audiobook.mp3.17k
 magnet:?dn=Citizenfour.2014.German.Audiotrack.23976fpms.aac.18khz&xt=urn:btih:c1d04ab194456fdde3307910d36874db8555455d
 magnet:?dn=Dan.McCrum.House.of.Wirecard.2022.German.Audiobook&xt=urn:btih:e8796632edbb16da88d2f7cda0f9f1306e3a0ef1
 magnet:?dn=Daniel.Kahneman.Schnelles.Denken.Langsames.Denken.2012.German.Audiobook&xt=urn:btih:0c1144836f7ac9aadb8af799d7e05332485e6dc9
+magnet:?dn=Daniele.Ganser.Illegale.Kriege.NATO.UNO.2021.German.Audiobook&xt=urn:btih:83a7cec084d458d528020ebfc3f85bea0794a084
 magnet:?dn=Daniele.Ganser.Imperium.USA.Die.skrupellose.Weltmacht.2020.German.Audiobook&xt=urn:btih:42448931c9e72b9a7396fdf679b219dfb7575e5d
 magnet:?dn=Daniele.Ganser.NATO-Geheimarmeen.in.Europa.2016.German.Audiobook&xt=urn:btih:0ead38fd1324b4f4b6c9a888424071e7e53980af
 magnet:?dn=Dark.2017.Season.1-3.S01-S03.1080p.NF.WEB-DL.x265.HEVC.10bit.EAC3.5.1.German.&xt=urn:btih:8cfafd07713d735471727546e81f722f19f2ca73
