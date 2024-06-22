@@ -39,6 +39,7 @@ magnet:?dn=Angst.Essen.Seele.Auf.Sonata.Premiere&xt=urn:btih:cc7493d3689d9c95c96
 magnet:?dn=Antifuchs.Stola.2018.German.Hiphop&xt=urn:btih:19edaced594a80634cd9aaf4be872956e3a4ba3d
 magnet:?dn=Arto.Paasilinna.Weltretten.für.Anfänger.2017.German.Audiobook&xt=urn:btih:a949a70fbee1759deab5fb56d37d2a12dd50bd4a
 magnet:?dn=Asterix.The.Gaul.1967.German.Audiotrack.23976fpms.aac.20khz&xt=urn:btih:557bfd0a3fc43e9bbf0357feb88382a9d4147025
+magnet:?dn=Asterix.The.Gaul.1967.German.Audiotrack.23976fpms.ac3.16khz&xt=urn:btih:6418314f53ee9ebdf3a60ddff8a68d357f7afc48
 magnet:?dn=Babylon.Berlin.2017.Season.1.S01.1080p.BluRay.x265.HEVC.10bit.EAC3.5.1.German.Ghost&xt=urn:btih:193eadef7be75583f636a1756428d91d93c4432c
 magnet:?dn=Babylon.Berlin.S01.COMPLETE.GERMAN.720p.10bit.WEBRip.2CH.x265.HE&xt=urn:btih:3161cb2ef0a1dd4a397fe6ac40d5b216a5c0f048
 magnet:?dn=Barbarians.2020.S01.COMPLETE.GERMAN.720p.NF.WEBRip.x264-GalaxyTVTGx&xt=urn:btih:56a595407bd49d077c93706e63b6ad29e200e757
@@ -101,6 +102,7 @@ magnet:?dn=Maren.Urner.Radikal.emotional.2024.German.Audiobook.mp3.17khz&xt=urn:
 magnet:?dn=Max.Krone.Manipulation.und.Körpersprache.2020.German.Audiobook.mp3.12khz&xt=urn:btih:fcdc09b71a41735b030057650da21d791a29cdea
 magnet:?dn=Michael.Nehls.Das.indoktrinierte.Gehirn.2024.German.Audiobook.mp3.17khz&xt=urn:btih:eb0c427422b689f93564efd5eb52bfc6559d31e2
 magnet:?dn=Männer.Frauen.Menschen.2022.720p.Jan.Oechsner.Feminismus&xt=urn:btih:75e224fa849cb5229697df3ae45d3246d63801dd&xt=urn:btmh:1220b0ca48f7144835bb8bc75380ba17a8b7dc599dd12602fd217e5e3c90d3bc480d
+magnet:?dn=Nassim.Nicholas.Taleb.Der.Schwarze.Schwan.2023.German.Audiobook.17khz&xt=urn:btih:dffb4ae9d567402078ad904420a97d326015d757
 magnet:?dn=Nassim.Nicholas.Taleb.Narren.des.Zufalls.2023.German.Audiobook.mp3.128k&xt=urn:btih:912ec718e4b025bf57042a827d05a2ea80d8d32e
 magnet:?dn=Network.1976.DL.English.German.720p.x264.SUJAIDR&xt=urn:btih:da72fc129a1d90b609a5124fe6a074ddefc0f077
 magnet:?dn=Network.1976.German.Audiotrack&xt=urn:btih:a5bd06e218c3a0e5d8db6ce8f185376a28216bb6&xt=urn:btmh:12200a7042e266b790588558d2ec3486e99dca03e9c7c34a4d40c046026da0f841a3
@@ -114,7 +116,6 @@ magnet:?dn=Rammstein.-.Deutschland.2019.Single&xt=urn:btih:49fb983773433b89badc8
 magnet:?dn=Rammstein.-.RADIO.Singles.2019&xt=urn:btih:af9ac84cba9f20b914aaa482a815d5a7b10239e3
 magnet:?dn=Rammstein.-.RAMMSTEIN.2019.320.KBPS&xt=urn:btih:8a46abce53eec9aca78475d0a1c6f66e9286aede
 magnet:?dn=Rammstein.-.Zeit.2022.Mp3.320kbps.PMEDIA️&xt=urn:btih:201bf6f2427036320e0786eb4250ffb089530f02
-magnet:?dn=Rammstein.-.Zeit.mp3&xt=urn:btih:595aa0d288ca32f05e3b3fee5d3872309a321c7d
 magnet:?dn=Rammstein.-.Zick.Zack.2022.Mp3.320kbps.PMEDIA️&xt=urn:btih:590e60fd7bdb26932d4d38ad0950f38f0662329c
 magnet:?dn=Scary.Movie.2000.German.Audiotrack.23976fpms&xt=urn:btih:9dfb205c20a02c835164c278549f4f8e3bd8abe2
 magnet:?dn=Siddharth.Kara.Blutrotes.Kobalt.2024.German.Audiobook&xt=urn:btih:4177d60fef2426945f59a1f96774fb5383f1ef0f
