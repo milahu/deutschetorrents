@@ -50,6 +50,7 @@ magnet:?dn=Charles.Duhigg.Die.Macht.der.Gewohnheit.2020.German.Audiobook.mp3.17k
 magnet:?dn=Citizenfour.2014.German.Audiotrack.23976fpms.aac.18khz&xt=urn:btih:c1d04ab194456fdde3307910d36874db8555455d
 magnet:?dn=Dan.McCrum.House.of.Wirecard.2022.German.Audiobook&xt=urn:btih:e8796632edbb16da88d2f7cda0f9f1306e3a0ef1
 magnet:?dn=Daniel.Kahneman.Schnelles.Denken.Langsames.Denken.2012.German.Audiobook&xt=urn:btih:0c1144836f7ac9aadb8af799d7e05332485e6dc9
+magnet:?dn=Daniele.Ganser.NATO-Geheimarmeen.in.Europa.2016.German.Audiobook&xt=urn:btih:0ead38fd1324b4f4b6c9a888424071e7e53980af
 magnet:?dn=Dark.2017.Season.1-3.S01-S03.1080p.NF.WEB-DL.x265.HEVC.10bit.EAC3.5.1.German.&xt=urn:btih:8cfafd07713d735471727546e81f722f19f2ca73
 magnet:?dn=Das.Kleine.Arschloch.Und.Der.Alte.Sack.2006.German.720p.x264.ac3&xt=urn:btih:5d86a63df6fe74069069135f79d7ea8fb0489069&xt=urn:btmh:1220a3bf723f8313c8810b3de0403d71c26d19e387e66e0511cf24d63842a868c971
 magnet:?dn=Dennis.Lehane.-.Shutter.Island.Hoerbuch&xt=urn:btih:61255630fef3a2ed1ff12e373c3bc8f1238f1092
