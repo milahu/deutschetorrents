@@ -121,6 +121,7 @@ magnet:?dn=Rammstein.-.RADIO.Singles.2019&xt=urn:btih:af9ac84cba9f20b914aaa482a8
 magnet:?dn=Rammstein.-.RAMMSTEIN.2019.320.KBPS&xt=urn:btih:8a46abce53eec9aca78475d0a1c6f66e9286aede
 magnet:?dn=Rammstein.-.Zeit.2022.Mp3.320kbps.PMEDIA️&xt=urn:btih:201bf6f2427036320e0786eb4250ffb089530f02
 magnet:?dn=Rammstein.-.Zick.Zack.2022.Mp3.320kbps.PMEDIA️&xt=urn:btih:590e60fd7bdb26932d4d38ad0950f38f0662329c
+magnet:?dn=Ruud.Koopmans.Die.Asyl-Lotterie.2023.German.Audiobook&xt=urn:btih:96c002f294110c7bd6792704fbbe52a74838cb8d
 magnet:?dn=Scary.Movie.2000.German.Audiotrack.23976fpms&xt=urn:btih:9dfb205c20a02c835164c278549f4f8e3bd8abe2
 magnet:?dn=Siddharth.Kara.Blutrotes.Kobalt.2024.German.Audiobook&xt=urn:btih:4177d60fef2426945f59a1f96774fb5383f1ef0f
 magnet:?dn=Silentium.2004.-.Austria.crime.thriller&xt=urn:btih:8e645e5cabe1759f0e7abb575093d35eb563aa7f
