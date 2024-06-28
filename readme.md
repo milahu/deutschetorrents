@@ -182,6 +182,7 @@ magnet:?dn=Zeitgeist.Addendum.-.deutsch.synchronisiert.-.HQ-DVDrip.avi&xt=urn:bt
 
 fehlt noch was?
 dann mach ein issue mit kategorie, titel, jahr
+(beispiel: film, scary movie, 2000)
 auf einem [mirror](#mirrors) von deutschetorrents.
 das geht auch anonym auf einem onion mirror.
 
