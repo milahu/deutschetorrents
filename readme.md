@@ -185,6 +185,8 @@ magnet:?dn=xXx.Triple.X.2002.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=u
 magnet:?dn=Yuri.Bezmenov.Ideological.Subversion.German&xt=urn:btih:dc9e3d8f3b8cc89a703fc162dd8aa6214d22ae26
 magnet:?dn=Yuval.Noah.Harari.Homo.Deus.2017.German.Audiobook.mp3.15khz&xt=urn:btih:53805d8be805a2619d17158d8d8efb7979c2ea0e
 magnet:?dn=Zeitgeist.Addendum.-.deutsch.synchronisiert.-.HQ-DVDrip.avi&xt=urn:btih:d488fd81a7c384052f864c97c5dd2d9d3a748544
+magnet:?dn=Zugezogen.Maskulin.-.Alle.Gegen.Alle.2017&xt=urn:btih:6575fb57620df0a72374d025558012a6c5e04f33
+magnet:?dn=Zugezogen.Maskulin.10.Jahre.Abfuck.2020.German.Hiphop&xt=urn:btih:46598bed6f1273af9b894b6aad2397b6c255cbb1
 ```
 
 </details>
