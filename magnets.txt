@@ -1,3 +1,4 @@
+magnet:?dn=187.Strassenbande&xt=urn:btih:6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374
 magnet:?dn=1984..-..Film.nach.George.Orwell.in.deutsch/german&xt=urn:btih:f714963a80c2ab76ffa20b0f3bf51c42abda2a0c
 magnet:?dn=28.Days.Later.2002.German.Audiotrack.2ch.aac.20khz.23976fpms.loud&xt=urn:btih:caf2ab82311d4862411d2fb96e3e3a454f5ea76d
 magnet:?dn=28.Days.Later.2002.German.Audiotrack.6ch.dts.20khz.23976fpms.quiet&xt=urn:btih:435f312b9e5c8a7a41a972fdc0d5a19761e4344d
@@ -59,9 +60,11 @@ magnet:?dn=George.Orwell.Fido.Nesti.1984.2021.German.Graphic.Novel&xt=urn:btih:2
 magnet:?dn=Gerald.Hörhan.Investment.Punk.2013.German.Audiobook.mp3.16khz&xt=urn:btih:5c5c0d81a0d6cea3a8f33285acb536f1e5dddf29
 magnet:?dn=Gerald.Hüther.Wir.informieren.uns.zu.Tode.2022.German.Audiobook&xt=urn:btih:912acb5335e59cfd5e855b1dc693e90ccb90c1d7
 magnet:?dn=German.Book.Megapack&xt=urn:btih:78e9edab374094d9007d497811a2cad2aaab284f
+magnet:?dn=Haftbefehl&xt=urn:btih:166032dc144bc0d8e243609bbb1af82e6c9abb1b
 magnet:?dn=Hamed.Abdel-Samad.Der.Koran.2016.German.Audiobook&xt=urn:btih:b70e21cbdcf665835492cf51f57692ccd45cd957
 magnet:?dn=Harry.Potter.Audiobooks.1-7.Hörbuch,.German,.Deutsch,.DE.J.K..Rowling,.Rufus.Beck.Opus,.epub&xt=urn:btih:2f528afca872c6c4530d84199cea33e5191673a9
 magnet:?dn=Heinrich.Boell.-.Dr..Murkes.gesammeltes.Schweigen.Hoerbuch.Text&xt=urn:btih:ef8e98245d090a3c5870717b3aff6594c20b8518
+magnet:?dn=Hiob.%26.Morlockk.Dilemma&xt=urn:btih:cef8bed353715ca6531513f1468c06873a822c47
 magnet:?dn=Hoerbuch.-.Erich.Maria.Remarque.-.Sag.mir,.dass.du.mich.liebst.192kbs&xt=urn:btih:c072fcc32ab8b6b2c649858dccfdd50f19ae2022
 magnet:?dn=Hoerbuch.Cornelia.Funke.Tintenherz&xt=urn:btih:e603bb71d9ede9a5305c24ae16f4a12a44a9c6f2
 magnet:?dn=Idiocracy.2006.720p.Bluray.x264.MoviesFD.German.Audiotrack&xt=urn:btih:3615a7f7651f428d35ce0b5af43f2c4b2e72ca2a&xt=urn:btmh:1220097ed5dd657b4dd8487ef881f8b763b1364e99921a0525061ad152bf4c35d30b
@@ -74,6 +77,8 @@ magnet:?dn=Kategorie.C&xt=urn:btih:4f9414395ed4ab99103586684a786acdb90cbe6a
 magnet:?dn=KIZ.K.I.Z.Kannibalen.In.Zivil.2005-2021.German.Hiphop&xt=urn:btih:37bc0b49ee68f3e06c6f63d59a3a71f5fc611cbd
 magnet:?dn=Kleines.Arschloch.1997.German.720p.x264.aac&xt=urn:btih:ed5e6f474baa8ce6434dbb6c1061655804296b44
 magnet:?dn=Komm,.süsser.Tod.AKA.Come.Sweet.Death.2000.1080p.mkv&xt=urn:btih:28ef36af957f21d86b533fd3b50a8f0de359b14e
+magnet:?dn=Kool.Savas.-.Märtyrer.FLAC.WEB.2014&xt=urn:btih:58dd33d67e3b753e7e482c983075ee9b793ed3c7
+magnet:?dn=Kool.Savas.-.Tot.Oder.Lebendig.2007&xt=urn:btih:33c5270254342f2146f86798a7332d27f077c22a
 magnet:?dn=Labrassbanda--Europa-2013-OMArarbg&xt=urn:btih:e9fa70b486eb6c1cbf2bca9edd6561c2dcd927a2
 magnet:?dn=LaBrassBanda.-.Habediehre.2008&xt=urn:btih:7ae303bb3a0e918d43e8a075158bc42de6a61b97
 magnet:?dn=LaBrassBanda.-.Uebersee.2009&xt=urn:btih:321d8f26ac4de319ad2980f0c4744e698a29152d
@@ -84,6 +89,7 @@ magnet:?dn=Lord.Of.The.Weed.2014.German.Parody.720p&xt=urn:btih:f26d6a41d8990943
 magnet:?dn=Maren.Urner.Radikal.emotional.2024.German.Audiobook.mp3.17khz&xt=urn:btih:06ba2177aefc58d435051e7682b04efa289a6d8a
 magnet:?dn=Max.Krone.Manipulation.und.Körpersprache.2020.German.Audiobook.mp3.12khz&xt=urn:btih:fcdc09b71a41735b030057650da21d791a29cdea
 magnet:?dn=Michael.Nehls.Das.indoktrinierte.Gehirn.2024.German.Audiobook.mp3.17khz&xt=urn:btih:eb0c427422b689f93564efd5eb52bfc6559d31e2
+magnet:?dn=Morlockk.Dilemma&xt=urn:btih:654294487214edff3e02b2f570f7660dd56c2c75
 magnet:?dn=Männer.Frauen.Menschen.2022.720p.Jan.Oechsner.Feminismus&xt=urn:btih:75e224fa849cb5229697df3ae45d3246d63801dd&xt=urn:btmh:1220b0ca48f7144835bb8bc75380ba17a8b7dc599dd12602fd217e5e3c90d3bc480d
 magnet:?dn=Nassim.Nicholas.Taleb.Der.Schwarze.Schwan.2023.German.Audiobook.17khz&xt=urn:btih:dffb4ae9d567402078ad904420a97d326015d757
 magnet:?dn=Nassim.Nicholas.Taleb.Narren.des.Zufalls.2023.German.Audiobook.mp3.128k&xt=urn:btih:912ec718e4b025bf57042a827d05a2ea80d8d32e
