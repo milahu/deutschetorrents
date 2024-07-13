@@ -9,7 +9,7 @@
     <copyright>public domain</copyright>
     <category></category>
     <ttl>1440</ttl>
-    <lastBuildDate>Sat, 13 Jul 2024 09:42:03 +0200</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jul 2024 14:55:38 +0200</lastBuildDate>
     <item>
       <title>187.Strassenbande</title>
       <guid isPermaLink="false">6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374</guid>
@@ -334,6 +334,11 @@
       <title>German.Book.Megapack</title>
       <guid isPermaLink="false">78e9edab374094d9007d497811a2cad2aaab284f</guid>
       <enclosure type="application/x-bittorrent" url="magnet:?dn=German.Book.Megapack&amp;xt=urn:btih:78e9edab374094d9007d497811a2cad2aaab284f"/>
+    </item>
+    <item>
+      <title>Gregor.Gysi.Was.Politiker.nicht.sagen.2022.German.Audiobook</title>
+      <guid isPermaLink="false">62931773504767c9b61ce4ad4aa7083185e3c89a</guid>
+      <enclosure type="application/x-bittorrent" url="magnet:?dn=Gregor.Gysi.Was.Politiker.nicht.sagen.2022.German.Audiobook&amp;xt=urn:btih:62931773504767c9b61ce4ad4aa7083185e3c89a"/>
     </item>
     <item>
       <title>Haftbefehl</title>
