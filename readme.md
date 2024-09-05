@@ -39,6 +39,7 @@ magnet:?dn=Alarm.fuer.Cobra.11.S27E02.Das.zweite.Leben.German.WS.DVDRiP.XviD-Old
 magnet:?dn=Albrecht.Müller.Die.Reformlüge.2006.German.Audiobook&xt=urn:btih:0233ce4394550d33448065ff3c95b670ca47c407
 magnet:?dn=Albrecht.Müller.Die.Revolution.ist.fällig.2020.German.Audiobook&xt=urn:btih:31e3e44d46f247e3c1e97869eea73dc3a42d0d8c
 magnet:?dn=Aldous.Huxley.Schöne.Neue.Welt.1984.German.Audiobook.Wolf.Euba&xt=urn:btih:ddbca7cb4ae93cac3290e954accb4c058239ad15
+magnet:?dn=Alexander.Kowalski._.Extrawelt.-.Reset._.Leaf.43.DMB.%2302&xt=urn:btih:4b3c1f88363177d6026ae1ddd9ad88618f4a00ef
 magnet:?dn=All.Quiet.on.the.Western.Front.2022.GERMAN.1080p.NF.WEBRip.DDP5.1.Atmos.x264-SMU&xt=urn:btih:57b004e743a1645d42f91f39320186d42becfecf
 magnet:?dn=Angst.essen.Seele.auf.1974&xt=urn:btih:8c2382a661f7e2c49e633c47a0836d4164258a4a
 magnet:?dn=Angst.Essen.Seele.Auf.Sonata.Premiere&xt=urn:btih:cc7493d3689d9c95c96e7111bbca3b7f12923eb3
@@ -57,6 +58,7 @@ magnet:?dn=Blade.1998.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih
 magnet:?dn=Blinkist.August.2023.SiteRip.Collection.GERMAN.-.OPUS&xt=urn:btih:9054154f3b6e48d61b24108c113b21aedbba02fc&xt=urn:btmh:1220275eca76b77c688c501e2ffab447e7d60facb472d2537c47f07b6976d69f437a
 magnet:?dn=Boehse.Onkelz.Böhse.Onkelz.All.19.Albums.Complete.1984-2005&xt=urn:btih:5cd00448316d7461f925f2e00dd5f873d0bed049
 magnet:?dn=Boehse_Onkelz_lossy&xt=urn:btih:6aa471cccd94db62a47a9dd9acdb38e9da0ca1a6
+magnet:?dn=BOXERDIGI011.Dusty.Kid.%26.Extrawelt.-.The.Mark.Reeve.Remixes.2012&xt=urn:btih:b68eae534f0d6b967cbfc23300edd0e46245746d
 magnet:?dn=Charles.Duhigg.Die.Macht.der.Gewohnheit.2020.German.Audiobook.mp3.17khz&xt=urn:btih:4ae98b22696e2a532d962d2e7dd3eeebc0dab21d
 magnet:?dn=Citizenfour.2014.German.Audiotrack.23976fpms.aac.18khz&xt=urn:btih:c1d04ab194456fdde3307910d36874db8555455d
 magnet:?dn=Creutzfeld.%26.Jakob.-.Official.Discography.6.Releases.1999-2003.MP3.tracks,.lossy,.192-320.kbps.German.Hiphop&xt=urn:btih:40dd5b44c6ffcf0785d02cedb1550ee81bad619e
@@ -81,6 +83,10 @@ magnet:?dn=Die.Ärzte.-.Essentials.2020.Mp3.320kbps.PMEDIA&xt=urn:btih:a5b639685
 magnet:?dn=Dirk.Müller.Crashkurs.2009.German.Audiobook&xt=urn:btih:ff7200d39ac75a2853771296fbee2f91590ec69a
 magnet:?dn=Dirk.Müller.Machtbeben.2018.German.Audiobook&xt=urn:btih:5759fecd78e9ff950fed9a3dc9d3f3d7daf3ab2c
 magnet:?dn=Eternal.Sunshine.of.the.Spotless.Mind.2004.German.Audiotrack&xt=urn:btih:4b0e656bf5ecbd07f83e867bcbee986cd3beba67
+magnet:?dn=Extrawelt.%26.Dominik.Eulberg.-....A.Little.Further.COR12117&xt=urn:btih:f69f060013a09094c545b980448137f288621779
+magnet:?dn=Extrawelt.-.Mind.Over.Doesn't.Matter.TRAUM.V105&xt=urn:btih:c45555ad017d133cd549358408d5fcb03c14208f
+magnet:?dn=Extrawelt.-.Unknown.2018&xt=urn:btih:39447868d3484e72ae99542b92ac5a4bcf98205a
+magnet:?dn=Extrawelt.FLAC&xt=urn:btih:5a9f752e0a0c0a2dfee8a9852030804e5eb66481
 magnet:?dn=Farin_Urlaub&xt=urn:btih:ee807ee79fd05d0dc4edf91e43f7062d345ed2c9
 magnet:?dn=Felix.Holtermann.Geniale.Betrüger.Wirecard.2021.German.Audiobook&xt=urn:btih:09cbb664ccca5063c221d3c2dd3a9887b3846b43
 magnet:?dn=Fight.Club.1999.German.Audiotrack.2ch.loud.aac.224kbps.23976fpms.21khz&xt=urn:btih:c4c66f874c7ff1c900d3c5236e6317b00e06dfac
