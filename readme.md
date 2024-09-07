@@ -414,3 +414,10 @@ $ vnstat -m
 
 wenn filesharing verboten ist, wo sind dann die copyright-anwälte,
 die mir dafür jeden tag 300.000 euro "schadensersatz" in rechnung stellen? wo?!
+
+
+
+## warum
+
+die deutsche filesharing "szene" ist zu nutzerfeindlich, überall barrieren für kommerz.
+scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
