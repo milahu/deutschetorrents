@@ -110,6 +110,7 @@ magnet:?dn=Gregor.Gysi.Was.Politiker.nicht.sagen.2022.German.Audiobook&xt=urn:bt
 magnet:?dn=Gzuz.-.Official.Discography.9.Releases.with.Bonez.MC,.Sa4.2014.-.2024.MP3.tracks,.lossy,.128-320.kbps.German.Hiphop&xt=urn:btih:5BA84041697A6CE954228F12AE982BC84825BB85
 magnet:?dn=Haftbefehl&xt=urn:btih:166032dc144bc0d8e243609bbb1af82e6c9abb1b
 magnet:?dn=Hamed.Abdel-Samad.Der.Koran.2016.German.Audiobook&xt=urn:btih:b70e21cbdcf665835492cf51f57692ccd45cd957
+magnet:?dn=Harry.Potter.And.The.Philosophers.Stone.2001.Extended.German.Audiotrack.20khz&xt=urn:btih:b44f94f64bee74fa480002f1337658bdf7488a53
 magnet:?dn=Harry.Potter.Audiobooks.1-7.Hörbuch,.German,.Deutsch,.DE.J.K..Rowling,.Rufus.Beck.Opus,.epub&xt=urn:btih:2f528afca872c6c4530d84199cea33e5191673a9
 magnet:?dn=Heinrich.Boell.-.Dr..Murkes.gesammeltes.Schweigen.Hoerbuch.Text&xt=urn:btih:ef8e98245d090a3c5870717b3aff6594c20b8518
 magnet:?dn=Hiob.%26.Morlockk.Dilemma&xt=urn:btih:cef8bed353715ca6531513f1468c06873a822c47
