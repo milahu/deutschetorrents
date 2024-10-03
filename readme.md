@@ -263,6 +263,81 @@ bei einem homeserver zahlst du auch für hardware und strom, also nochmal 20 eur
 
 
 
+## tonspur
+
+die meisten filme release ich nur als tonspur,
+weil so brauche ich weniger platz auf meinen festplatten.
+
+wie nutzt man so eine tonspur?
+
+meine `audiotrack` torrents haben (fast) immer eine `video/*.torrent` datei.
+das video in diesem torrent passt zur tonspur:
+
+- gleiches tempo (frame rate, FPS)
+- gleicher schnitt (original cut, extended cut, ...)
+- bei serien: gleiches intro, gleiche black frames bei werbepausen
+
+also: den `video/*.torrent` runterladen
+
+jetzt hast du 2 dateien, video und tonspur:
+
+- `$HOME/Downloads/torrent/Some.Movie.2000/Some.Movie.2000.mkv`
+- `$HOME/Downloads/torrent/Some.Movie.2000.German.Audiotrack/Some.Movie.2000.ger.m4a`
+
+jetzt brauchst du einen videoplayer,
+der ein video mit externer tonspur abspielen kann
+
+
+
+### mpv
+
+ich nutze dafür den [mpv player](https://github.com/mpv-player/mpv):
+
+```sh
+mpv \
+  "$HOME/Downloads/torrent/Some.Movie.2000/Some.Movie.2000.mkv" \
+  --audio-file="$HOME/Downloads/torrent/Some.Movie.2000.German.Audiotrack/Some.Movie.2000.ger.m4a"
+```
+
+oder als bash script:
+
+```sh
+#!/usr/bin/env bash
+
+video="$HOME/Downloads/torrent/Some.Movie.2000/Some.Movie.2000.mkv"
+audio="$HOME/Downloads/torrent/Some.Movie.2000.German.Audiotrack/Some.Movie.2000.ger.m4a"
+
+exec mpv "$video" --audio-file="$audio"
+```
+
+oder als python script für serien: [scripts/play-show.py](scripts/play-show.py)
+
+
+
+### vlc
+
+mit dem [vlc player](https://www.videolan.org/) geht das auch,
+aber dann kann man nicht mehr zu einer beliebigen position im video springen (broken random seek)
+
+```sh
+mpv --audio-file=audio.m4a video.mkv --audio-track 1
+```
+
+
+
+### ffmpeg
+
+wenn dein video player keine externee tonspur abspielen kann,
+dann kannst du eine neue video datei erzeugen:
+
+```sh
+ffmpeg -i audio.m4a -i video.mkv -map 0 -map 1 -c copy video2.mkv
+```
+
+`video2.mkv` hat die tonspur aus `audio.m4a` und alle tonspuren aus `video.mkv`
+
+
+
 ## sneakernet per post
 
 festplatte mit daten kaufen
