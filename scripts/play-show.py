@@ -70,8 +70,9 @@ audio_muster_liste = [
 ]
 
 # untertitel_muster ist relativ zum ordner von audio_pfad
-# gleiche muster wie für audio, aber andere endungen
-untertitel_muster_liste = audio_muster_liste
+untertitel_muster_liste = [
+    f"*.{se0}.*",
+]
 
 
 
