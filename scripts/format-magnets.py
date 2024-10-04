@@ -72,7 +72,7 @@ for url in src.split("\n"):
     dn = query_dict["dn"][0]
     del query_dict["dn"]
     dn = quote_pretty(dn)
-    dn = re.sub("^Bitsearch\.to\.", "", dn)
+    dn = re.sub(r"^Bitsearch\.to\.", "", dn)
     dn = dn.replace(".⭐", "").replace("⭐", "")
     # TODO remove more junk
     query_list.append("dn=" + dn)
