@@ -204,6 +204,7 @@ magnet:?dn=Thilo.Sarrazin.Deutschland.schafft.sich.ab.2011.German.Audiobook.mp3.
 magnet:?dn=Thilo.Sarrazin.Die.Vernunft.und.ihre.Feinde.2022.German.Audiobook.mp3.17khz&xt=urn:btih:54f89357adbf2e2382e570ec4cdb3d7ad55f234a
 magnet:?dn=Thilo.Sarrazin.Wir.schaffen.das.2021.German.Audiobook.mp3.17khz&xt=urn:btih:3cd343e4e8843601d55338135613882a8fc2fc7e
 magnet:?dn=Thilo.Sarrazin.Wunschdenken.2022.German.Audiobook.mp3.17khz&xt=urn:btih:df49b22ce3c55bba4f51b07df092d86d418fc6b1
+magnet:?dn=Thorsten.Schulte.Fremdbestimmt.Lügen.Täuschung.2019.German.Audiobook&xt=urn:btih:c4e023c3f7e7e8896324946fb43a7c67dffe0c3e
 magnet:?dn=Titanic.1943.Xvid.1cd.-.German.Epic.-.Eng.Subs.-.Sybille.Schmi&xt=urn:btih:9b19b9dbca5cb62e49150b8dc5ba8adcb11d4d17
 magnet:?dn=Torch.Blauer.Samt.2000.192k.mp3.German.Hiphop&xt=urn:btih:2122df6e9661477724a17d99dd5dbfda33a1586d
 magnet:?dn=Triangle.of.Sadness.2022.German.Audiotrack.23976fpms.20khz&xt=urn:btih:9b38fc4f9b8323961c5e1ea53656e14f61edc3bc
