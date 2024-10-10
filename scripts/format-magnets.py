@@ -39,11 +39,24 @@ for url in src.split("\n"):
     query_list_2.push(item)
     remove_keys.append(key)
   """
-  #if False:
-  if True:
+  if False:
     # remove trackers
     if "tr" in query_dict:
       del query_dict["tr"]
+  else:
+    if "tr" in query_dict:
+      # keep private trackers
+      trackers = []
+      for tr in query_dict["tr"]:
+        if re.match(r"http://bt[0-9]*.t-ru\.org/ann\?magnet", tr):
+          # rutracker.org
+          # grep -F t-ru.org/ann trackerlist.txt | xargs printf "&tr=%s" | sed 's/\?/%3F/g'
+          trackers.append(tr)
+          continue
+        # TODO keep more trackers
+      trackers = list(set(trackers))
+      trackers.sort()
+      query_dict["tr"] = trackers
   # put name first
   query_list = []
   def quote_pretty(s):
