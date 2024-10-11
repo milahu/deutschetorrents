@@ -318,6 +318,7 @@ magnet:?dn=Terrorgruppe.Diskografie.1995.bis.2017.v20240522.German.Punkrock&xt=u
 magnet:?dn=Terrorgruppe.German.Punkrock&xt=urn:btih:21bd1d76b83b08359d2f90617ffc0174a3ce2eca
 magnet:?dn=The.Baader.Meinhof.Complex.2008.720p.BluRay.YTS.YIFY&xt=urn:btih:4affb4a61475f74c08f29a4a92e4def634b8b530
 magnet:?dn=The.Bone.Man.2009.720p.BluRay.YTS.MX&xt=urn:btih:5c5859b3e906202437a383d061b962a507b6b3e0
+magnet:?dn=The.Brothers.Grimsby.2016.German.AAC.DL.720p.x264&xt=urn:btih:825ee9fb82e93bd21d7e2deed2e05dc7632de504
 magnet:?dn=The.Great.Taking.2023.Documentary.720p.DL.German.English&xt=urn:btih:d0abf44e59de9969127e2357152b5c823d3c682e
 magnet:?dn=The.Lives.of.Others.2006.1080p.BluRay.x264.German.AAC-ETRG&xt=urn:btih:51f1fcb4ff80aa243d94f751793aad48b2206bf3
 magnet:?dn=The.Lives.Of.Others.2006.BluRay.720p.YTS.AM&xt=urn:btih:1f2dadfe2f4f1bdd56bf71e3f475122a66644a58
