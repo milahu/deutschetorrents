@@ -310,6 +310,7 @@ magnet:?dn=South.Park.Bigger.Longer.and.Uncut.1999.720p.BluRay.x264.YIFY.DL.Germ
 magnet:?dn=South.Park.S01.Complete.German.Audiotrack.ac3.20khz.23976fpms&xt=urn:btih:5bfdab3d6e32e05a2762f75a0fdd1136fec098e4
 magnet:?dn=South.Park.S10.Complete.German.Audiotrack.aac.20khz.23976fpms&xt=urn:btih:6b6dd2eac0ec9f38da871feafbaf157e2cf17853
 magnet:?dn=South.Park.S22.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:7d7062e1967b62de8482c4c097e23c9cff84bb70
+magnet:?dn=South.Park.S23.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:51d02230229fe9dedcc48678c62cadf0244395f0
 magnet:?dn=SpongeBob.Schwammkopf.der.Film.German.Deutsch.2004.DVDRip&xt=urn:btih:5f0c4b3217c830c87d79b50466e8abb3d066c803
 magnet:?dn=Stalingrad.1993.German.Film,.English.Dubbed,.Subtitles&xt=urn:btih:64b39c7171b551056808e293ca7c6017b2e64b05
 magnet:?dn=Stephan.Zantke.Wenn.Deutschland.so.scheiße.ist.2019.German.Audiobook&xt=urn:btih:1b72c2cc9033b1b656597fe30f51c42dfb82d9e4
