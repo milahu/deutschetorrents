@@ -87,6 +87,7 @@ magnet:?dn=Die.Ärzte.-.Essentials.2020.Mp3.320kbps.PMEDIA&xt=urn:btih:a5b639685
 magnet:?dn=Dirk.Müller.Crashkurs.2009.German.Audiobook&xt=urn:btih:ff7200d39ac75a2853771296fbee2f91590ec69a
 magnet:?dn=Dirk.Müller.Machtbeben.2018.German.Audiobook&xt=urn:btih:5759fecd78e9ff950fed9a3dc9d3f3d7daf3ab2c
 magnet:?dn=Dont.Look.Up.2021.German.Audiotrack.2ch.24fps.20khz&xt=urn:btih:325eb8ca0954c03bdc8a6f1fb744a7027d32297f
+magnet:?dn=El.Camino.A.Breaking.Bad.Movie.2019.German.Audiotrack.24fps&xt=urn:btih:d9f96de37b24e699d14d469dc5bc335bef68b453
 magnet:?dn=Eternal.Sunshine.of.the.Spotless.Mind.2004.German.Audiotrack&xt=urn:btih:4b0e656bf5ecbd07f83e867bcbee986cd3beba67
 magnet:?dn=Extrawelt.%26.Dominik.Eulberg.-....A.Little.Further.COR12117&xt=urn:btih:f69f060013a09094c545b980448137f288621779
 magnet:?dn=Extrawelt.-.Mind.Over.Doesn't.Matter.TRAUM.V105&xt=urn:btih:c45555ad017d133cd549358408d5fcb03c14208f
