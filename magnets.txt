@@ -333,7 +333,8 @@ magnet:?dn=V.For.Vendetta.2006.German.Audiotrack.aac.18khz&xt=urn:btih:5a8306ab8
 magnet:?dn=Vera.Birkenbihl.-.Spanisch.fuer.Einsteiger.1%262&xt=urn:btih:84068531019071d942abf431828eb7aa95150f75
 magnet:?dn=Volker.ter.Haseborg.Die.Wirecard-Story.2021.German.Audiobook.mp3.17khz&xt=urn:btih:c7fd866705509ced20c3824a3e9b601ebf03c56f
 magnet:?dn=We.Feed.The.World.divx.mp3.avi&xt=urn:btih:9d7156ac3247887cabf0c7409a339ad313c07009
-magnet:?dn=Werner.-.Beinhart.1990.WEB-DL.1080p.rus-ger.6ch-quiet.ac3-640.subs.mkv&xt=urn:btih:ef1ebfd814a337e980f5426ce35d7dd9d48a5228
+magnet:?dn=Werner.-.Beinhart!.Broesel.DVDrip.deutsch&xt=urn:btih:ea8e9d3b22e0107d4d95bf09a5a97e1ac31fae37
+magnet:?dn=Werner.-.Beinhart.1990.1080p.-.German.6ch.ac3-192.nosubs.mkv&xt=urn:btih:509b36dc59ce4557bc95876eac611c12b023adff
 magnet:?dn=Wirecard.Die.Milliardenluege.2021.German.Doku.720p.x264&xt=urn:btih:c7eafa22fbb0b52ac4ce9102eabefeb9db13989e
 magnet:?dn=Wolf.Haas&xt=urn:btih:fe0787d0c25449f976655d21e93df8b060ddb211
 magnet:?dn=World.War.Z.2013.German.Audiotrack.2ch.23976fpms.aac.20khz&xt=urn:btih:c24c5203a755b191c2aac585c09df914557c1514
