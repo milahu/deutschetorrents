@@ -251,6 +251,7 @@ magnet:?dn=Hoerbuch.-.Erich.Maria.Remarque.-.Sag.mir,.dass.du.mich.liebst.192kbs
 magnet:?dn=Hoerbuch.Cornelia.Funke.Tintenherz&xt=urn:btih:e603bb71d9ede9a5305c24ae16f4a12a44a9c6f2
 magnet:?dn=Idiocracy.2006.720p.Bluray.x264.MoviesFD.German.Audiotrack&xt=urn:btih:3615a7f7651f428d35ce0b5af43f2c4b2e72ca2a&xt=urn:btmh:1220097ed5dd657b4dd8487ef881f8b763b1364e99921a0525061ad152bf4c35d30b
 magnet:?dn=Idiocracy.2006.German.English.DL.720p.x264.ac3&xt=urn:btih:09efdae290d3e1268167f5909db4c1ad67996f7a&xt=urn:btmh:12204a454110a6e6a3c14532c2511ae3105ce67b552549a309bdba2cfd0e409a1686
+magnet:?dn=Inside.the.Mind.of.a.Dog.2024.German.Audiotrack.20khz&xt=urn:btih:7270b838350b7ab5b9321709852c52c32cbbf364
 magnet:?dn=JAW.Doktor.Jotta.Weisse.Scheisse.PCP.Hollywood.Hank.Diskografie.German.Hiphop&xt=urn:btih:c4ae3ab833b0207567b66a5d24c8ce983b4ce1ce
 magnet:?dn=Jens.Berger.Wem.gehört.Deutschland.2024.German.Audiobook&xt=urn:btih:1d94e94b5020468f141ee353ca64b37a0d9ab2c0
 magnet:?dn=John.Wick.2014.German.Audiotrack.23976fpms&xt=urn:btih:da3d8f1df965011f27ab2c837603967185dd5064
@@ -328,6 +329,7 @@ magnet:?dn=Terrorgruppe.German.Punkrock&xt=urn:btih:21bd1d76b83b08359d2f90617ffc
 magnet:?dn=The.Baader.Meinhof.Complex.2008.720p.BluRay.YTS.YIFY&xt=urn:btih:4affb4a61475f74c08f29a4a92e4def634b8b530
 magnet:?dn=The.Bone.Man.2009.720p.BluRay.YTS.MX&xt=urn:btih:5c5859b3e906202437a383d061b962a507b6b3e0
 magnet:?dn=The.Brothers.Grimsby.2016.German.AAC.DL.720p.x264&xt=urn:btih:825ee9fb82e93bd21d7e2deed2e05dc7632de504
+magnet:?dn=The.East.2013.German.Audiotrack.17khz&xt=urn:btih:469ad8f93df29442d19d013a55dd278a2156d387
 magnet:?dn=The.Great.Taking.2023.Documentary.720p.DL.German.English&xt=urn:btih:d0abf44e59de9969127e2357152b5c823d3c682e
 magnet:?dn=The.Lives.of.Others.2006.1080p.BluRay.x264.German.AAC-ETRG&xt=urn:btih:51f1fcb4ff80aa243d94f751793aad48b2206bf3
 magnet:?dn=The.Lives.Of.Others.2006.BluRay.720p.YTS.AM&xt=urn:btih:1f2dadfe2f4f1bdd56bf71e3f475122a66644a58
