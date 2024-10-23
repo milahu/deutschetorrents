@@ -61,6 +61,7 @@ magnet:?dn=Blinkist.August.2023.SiteRip.Collection.GERMAN.-.OPUS&xt=urn:btih:905
 magnet:?dn=Boehse.Onkelz.Böhse.Onkelz.All.19.Albums.Complete.1984-2005&xt=urn:btih:5cd00448316d7461f925f2e00dd5f873d0bed049
 magnet:?dn=Boehse_Onkelz_lossy&xt=urn:btih:6aa471cccd94db62a47a9dd9acdb38e9da0ca1a6
 magnet:?dn=BOXERDIGI011.Dusty.Kid.%26.Extrawelt.-.The.Mark.Reeve.Remixes.2012&xt=urn:btih:b68eae534f0d6b967cbfc23300edd0e46245746d
+magnet:?dn=Breaking.Bad.S01.German.Audiotrack.20khz&xt=urn:btih:643b78c3a2b340a0f33d2aeb7224a48b3effc37e
 magnet:?dn=Charles.Duhigg.Die.Macht.der.Gewohnheit.2020.German.Audiobook.mp3.17khz&xt=urn:btih:4ae98b22696e2a532d962d2e7dd3eeebc0dab21d
 magnet:?dn=Citizenfour.2014.German.Audiotrack.23976fpms.aac.18khz&xt=urn:btih:c1d04ab194456fdde3307910d36874db8555455d
 magnet:?dn=Creutzfeld.%26.Jakob.-.Official.Discography.6.Releases.1999-2003.MP3.tracks,.lossy,.192-320.kbps.German.Hiphop&xt=urn:btih:40dd5b44c6ffcf0785d02cedb1550ee81bad619e
