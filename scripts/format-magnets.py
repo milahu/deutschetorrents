@@ -43,7 +43,7 @@ for url in src.split("\n"):
     # remove trackers
     if "tr" in query_dict:
       del query_dict["tr"]
-  else:
+  elif False:
     if "tr" in query_dict:
       # keep private trackers
       trackers = []
