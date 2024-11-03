@@ -288,6 +288,7 @@ magnet:?dn=Nassim.Nicholas.Taleb.Der.Schwarze.Schwan.2023.German.Audiobook.17khz
 magnet:?dn=Nassim.Nicholas.Taleb.Narren.des.Zufalls.2023.German.Audiobook.mp3.128k&xt=urn:btih:912ec718e4b025bf57042a827d05a2ea80d8d32e
 magnet:?dn=Network.1976.DL.English.German.720p.x264.SUJAIDR&xt=urn:btih:da72fc129a1d90b609a5124fe6a074ddefc0f077
 magnet:?dn=Network.1976.German.Audiotrack&xt=urn:btih:a5bd06e218c3a0e5d8db6ce8f185376a28216bb6&xt=urn:btmh:12200a7042e266b790588558d2ec3486e99dca03e9c7c34a4d40c046026da0f841a3
+magnet:?dn=Norbert.Häring.Schönes.neues.Geld.2018.German.Audiobook&xt=urn:btih:62a8dee2633124387d302ae8e8591467457926de&tr=udp://5.255.124.190:6969/announce&tr=udp://93.158.213.92:1337/announce&tr=udp://45.9.60.30:6969/announce&tr=udp://185.216.179.62:25/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://185.243.218.213:80/announce&tr=udp://89.234.156.205:451/announce
 magnet:?dn=NSL.Archiv&xt=urn:btih:81ded8a0174a7a88c93a1e0e253d79b477759f3e
 magnet:?dn=Parasite.2019.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:4c45cb4f64b94f0046bd8284234e897e5dae8b94
 magnet:?dn=Paulo.Coelho:.Elf.Minuten.Hoerbuch...Ebook.Deutsch&xt=urn:btih:2c8e9de0b07896dd76146f1218512a12b9a062e2

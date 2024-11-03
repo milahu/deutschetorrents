@@ -9,7 +9,7 @@
     <copyright>public domain</copyright>
     <category></category>
     <ttl>1440</ttl>
-    <lastBuildDate>Wed, 23 Oct 2024 20:18:18 +0200</lastBuildDate>
+    <lastBuildDate>Sun, 03 Nov 2024 12:51:34 +0100</lastBuildDate>
     <item>
       <title>187.Strassenbande</title>
       <guid isPermaLink="false">6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374</guid>
@@ -1314,6 +1314,11 @@
       <title>Network.1976.German.Audiotrack</title>
       <guid isPermaLink="false">a5bd06e218c3a0e5d8db6ce8f185376a28216bb6</guid>
       <enclosure type="application/x-bittorrent" url="magnet:?dn=Network.1976.German.Audiotrack&amp;xt=urn:btih:a5bd06e218c3a0e5d8db6ce8f185376a28216bb6&amp;xt=urn:btmh:12200a7042e266b790588558d2ec3486e99dca03e9c7c34a4d40c046026da0f841a3"/>
+    </item>
+    <item>
+      <title>Norbert.Häring.Schönes.neues.Geld.2018.German.Audiobook</title>
+      <guid isPermaLink="false">62a8dee2633124387d302ae8e8591467457926de</guid>
+      <enclosure type="application/x-bittorrent" url="magnet:?dn=Norbert.Häring.Schönes.neues.Geld.2018.German.Audiobook&amp;xt=urn:btih:62a8dee2633124387d302ae8e8591467457926de&amp;tr=udp://5.255.124.190:6969/announce&amp;tr=udp://93.158.213.92:1337/announce&amp;tr=udp://45.9.60.30:6969/announce&amp;tr=udp://185.216.179.62:25/announce&amp;tr=udp://142.132.183.104:6969/announce&amp;tr=udp://185.243.218.213:80/announce&amp;tr=udp://89.234.156.205:451/announce"/>
     </item>
     <item>
       <title>NSL.Archiv</title>
