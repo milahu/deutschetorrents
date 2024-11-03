@@ -653,3 +653,41 @@ die mir dafür jeden tag 300.000 euro "schadensersatz" in rechnung stellen? wo?!
 
 die deutsche filesharing "szene" ist zu nutzerfeindlich, überall barrieren für kommerz.
 scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
+
+
+
+## todo
+
+- automatisieren: runterladen, komprimieren, hochladen
+  - [videodiff](https://github.com/milahu/ffmpeg-align-video-scenes/blob/main/videodiff.py)
+- integrieren mit [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
+
+
+
+## quellen
+
+- [serienfans.org](https://serienfans.org/)
+  - [filmfans.org](https://filmfans.org/)
+- [mygully.com](https://mygully.com/)
+- [myboerse.bz](https://myboerse.bz/)
+
+
+
+## alternativen
+
+- filme
+  - [streamkiste.tv](https://streamkiste.tv/)
+- serien
+  - [bs.to](https://bs.to/)
+- musik
+  - ?
+- hörbücher
+  - ?
+- bücher
+  - annas-archive.org
+  - libgen.rs
+
+
+### siehe auch
+
+- [tarnkappe.info](https://tarnkappe.info/)
