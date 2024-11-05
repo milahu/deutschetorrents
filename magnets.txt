@@ -51,6 +51,7 @@ magnet:?dn=Der.Wixxer--2004-German-1080p-x265.mkv&xt=urn:btih:f8a918fd5014cd3ce4
 magnet:?dn=Deutsch.Rap/Horrorcore.Black.und.Sucht.-.Mit.Aller.Gewalt.2.1.-.2011,.MP3,.CBR.320.kbps&xt=urn:btih:2e728b327ae347017ab8253d2ecbbdd4afbf80cb&tr=http://bt.t-ru.org/ann%3Fmagnet&tr=http://bt2.t-ru.org/ann%3Fmagnet&tr=http://bt3.t-ru.org/ann%3Fmagnet&tr=http://bt4.t-ru.org/ann%3Fmagnet
 magnet:?dn=Deutsch.Rap/Horrorcore/Party.Hirnspalt.SAA.Recordz-.Discography.2009-2013,.11.releases,.MP3.tracks,.119-256.kbps&xt=urn:btih:aff4e02a9c8d8470da505b03c18d39c3f4770bdf&tr=http://bt.t-ru.org/ann%3Fmagnet&tr=http://bt2.t-ru.org/ann%3Fmagnet&tr=http://bt3.t-ru.org/ann%3Fmagnet&tr=http://bt4.t-ru.org/ann%3Fmagnet
 magnet:?dn=Die.fetten.Jahre.sind.vorbei.2004.German.Edukators&xt=urn:btih:2a542dadd9c8422ff9ee7fb2684fd11c27eee8ea
+magnet:?dn=Die.Hard.1988.German.Audiotrack.20khz&xt=urn:btih:f96e8f84331cb7b478291babfce0d8cc3f44413b&tr=udp://185.216.179.62:25/announce&tr=udp://93.158.213.92:1337/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://45.9.60.30:6969/announce&tr=udp://5.255.124.190:6969/announce
 magnet:?dn=Die.Toten.Hosen.-.Alles.ohne.Strom.2019.320.KBPS&xt=urn:btih:272584efebfc70915a5586172b54927076b13c6f
 magnet:?dn=Die.Toten.Hosen.-.Diskografie&xt=urn:btih:1e63a6b46ead0bb48094755e1718243e586e27fa
 magnet:?dn=Die.Toten.Hosen.-.Laune.der.Natur.2017&xt=urn:btih:d0269fdc253f8e26f1268cb615161a500eca3d64
