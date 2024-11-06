@@ -540,12 +540,12 @@ bei interesse mach ein issue auf einem [mirror](#mirrors) von deutschetorrents, 
 - SATA 3.5" HDD festplatte
   - [gebraucht](https://www.ebay.de/b/Interne-Computer-Festplatten/56083/bn_789377?Formfaktor=3%252C5%2520Zoll&LH_ItemCondition=3000&Schnittstelle=SATA%2520I%7CSATA%2520II%7CSATA%2520III&mag=1&rt=nc)
   - [neu](https://geizhals.de/?cat=hde7s&v=e&hloc=at&hloc=de&bl1_id=30&sort=eintr&xf=1080_SATA+6Gb%2Fs%7E3772_3.5)
-    - [Seagate BarraCuda Compute](https://geizhals.de/?cat=hde7s&asuch=BarraCuda+Compute&v=e&hloc=at&hloc=de&bl1_id=30&xf=3772_3.5~957_Seagate&sort=eintr)
+    - [Seagate BarraCuda Compute](https://geizhals.de/?cat=hde7s&asuch=BarraCuda+Compute&v=e&hloc=at&hloc=de&bl1_id=30&xf=3772_3.5~957_Seagate&sort=eintr) 5400rpm
       - 1TB: 50eur
       - 2TB: 50eur
       - 4TB: 100eur
       - 8TB: 130eur
-    - [Seagate Exos](https://geizhals.de/?cat=hde7s&xf=1080_SATA+6Gb%2Fs~3772_3.5&asuch=Seagate+Exos+X&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&mail=&sort=eintr&bl1_id=30)
+    - [Seagate Exos](https://geizhals.de/?cat=hde7s&xf=1080_SATA+6Gb%2Fs~3772_3.5&asuch=Seagate+Exos+X&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&mail=&sort=eintr&bl1_id=30) 7200rpm
       - 8TB: 170eur
       - 12TB: 250eur
       - 16TB: 260eur
