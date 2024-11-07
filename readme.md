@@ -55,6 +55,7 @@ magnet:?dn=Babylon.Berlin.S01.COMPLETE.GERMAN.720p.10bit.WEBRip.2CH.x265.HE&xt=u
 magnet:?dn=Barbarians.2020.S01.COMPLETE.GERMAN.720p.NF.WEBRip.x264-GalaxyTVTGx&xt=urn:btih:56a595407bd49d077c93706e63b6ad29e200e757
 magnet:?dn=Bass.Sultan.Hengzt.-.Official.Discography.21.Releases.with.King.Orgasmus.One,.MC.Bogy,.Fler,.Rosa.2002.-.2023.MP3.tracks,.lo.German.Hiphop&xt=urn:btih:dd17f648a5157eb955f3f517594785ab22d81770
 magnet:?dn=Bbou.Grod.schey.is.2023.Bavarian.German.Hiphop&xt=urn:btih:21ee981afd0bf237fa753d7343928179e5a81bec
+magnet:?dn=Beavis.And.Butt-Head.Do.America.1996.German.Audiotrack.20khz&xt=urn:btih:4502bb4e254802f282a22fc748f7f97a225ab0c3&tr=udp://45.9.60.30:6969/announce&tr=udp://185.216.179.62:25/announce&tr=udp://93.158.213.92:1337/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://5.255.124.190:6969/announce
 magnet:?dn=Beavis.and.Butt-Head.Do.the.Universe.2022.German.Audiotrack.aac.16khz&xt=urn:btih:c8ba983e3bc829368b85ab16a17f348d39a7f07c
 magnet:?dn=Blade.1998.German.Audiotrack.23976fpms.2ch.loud.aac.20khz&xt=urn:btih:f0b6df1d4d48a866e2e2b71aab3cb6b776cd5207
 magnet:?dn=Blinkist.August.2023.SiteRip.Collection.GERMAN.-.OPUS&xt=urn:btih:9054154f3b6e48d61b24108c113b21aedbba02fc&xt=urn:btmh:1220275eca76b77c688c501e2ffab447e7d60facb472d2537c47f07b6976d69f437a
