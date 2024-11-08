@@ -313,6 +313,7 @@ magnet:?dn=Sandro.Mattioli.Germafia.2024.German.Audiobook&xt=urn:btih:ad8831b34c
 magnet:?dn=Scary.Movie.2000.German.Audiotrack.23976fpms&xt=urn:btih:9dfb205c20a02c835164c278549f4f8e3bd8abe2
 magnet:?dn=Schwartz.-.Official.Discography.30.Releases.with.Blokkmonsta,.Uzi,.Dr..Jekyll,.King.Orgasmus.One,.Ra.German.Hiphop&xt=urn:btih:1be2da0c5104e2aae4b77e984168c33bcd82e0ef
 magnet:?dn=Se7en.1995.German.Audiotrack.2ch.17khz.Seven.Sieben&xt=urn:btih:84fd32c1251553cd031b93960e8bb3364f5982dc
+magnet:?dn=Shutter.Island.2010.German.Audiotrack.20khz&xt=urn:btih:8ce08377bc856c1a344b57ba458fd05e8961856e&tr=udp://93.158.213.92:1337/announce&tr=udp://5.255.124.190:6969/announce&tr=udp://45.9.60.30:6969/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://185.216.179.62:25/announce
 magnet:?dn=Siddharth.Kara.Blutrotes.Kobalt.2024.German.Audiobook&xt=urn:btih:4177d60fef2426945f59a1f96774fb5383f1ef0f
 magnet:?dn=Silentium.2004.-.Austria.crime.thriller&xt=urn:btih:8e645e5cabe1759f0e7abb575093d35eb563aa7f
 magnet:?dn=Silla.Godsilla.-.Official.Discography.25.Releases.with.King.Orgasmus.One,.Fler.2004.-.2024.MP3.tracks,.lossy,.138-320.kbp.German.Hiphop&xt=urn:btih:881298e88473b87cb8df28b6a013b92907130e09

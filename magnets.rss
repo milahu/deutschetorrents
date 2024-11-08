@@ -9,7 +9,7 @@
     <copyright>public domain</copyright>
     <category></category>
     <ttl>1440</ttl>
-    <lastBuildDate>Thu, 07 Nov 2024 15:59:45 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 08 Nov 2024 11:49:57 +0100</lastBuildDate>
     <item>
       <title>187.Strassenbande</title>
       <guid isPermaLink="false">6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374</guid>
@@ -1439,6 +1439,11 @@
       <title>Se7en.1995.German.Audiotrack.2ch.17khz.Seven.Sieben</title>
       <guid isPermaLink="false">84fd32c1251553cd031b93960e8bb3364f5982dc</guid>
       <enclosure type="application/x-bittorrent" url="magnet:?dn=Se7en.1995.German.Audiotrack.2ch.17khz.Seven.Sieben&amp;xt=urn:btih:84fd32c1251553cd031b93960e8bb3364f5982dc"/>
+    </item>
+    <item>
+      <title>Shutter.Island.2010.German.Audiotrack.20khz</title>
+      <guid isPermaLink="false">8ce08377bc856c1a344b57ba458fd05e8961856e</guid>
+      <enclosure type="application/x-bittorrent" url="magnet:?dn=Shutter.Island.2010.German.Audiotrack.20khz&amp;xt=urn:btih:8ce08377bc856c1a344b57ba458fd05e8961856e&amp;tr=udp://93.158.213.92:1337/announce&amp;tr=udp://5.255.124.190:6969/announce&amp;tr=udp://45.9.60.30:6969/announce&amp;tr=udp://142.132.183.104:6969/announce&amp;tr=udp://185.216.179.62:25/announce"/>
     </item>
     <item>
       <title>Siddharth.Kara.Blutrotes.Kobalt.2024.German.Audiobook</title>
