@@ -1,0 +1,16 @@
+https://btdig.com/
+https://torrentz2.nz/
+https://solidtorrents.to/
+https://snowfl.com/
+https://damag.net/
+https://1337x.to/
+
+
+
+see also
+
+https://github.com/qbittorrent/search-plugins/wiki/Unofficial-search-plugins
+
+https://github.com/btdig/dhtcrawler2/issues/5 # alternatives to dhtcrawler2
+  https://github.com/boramalper/magnetico/issues/218 # Community Database Dump
+    https://tnt.maiti.info/dhtd/
