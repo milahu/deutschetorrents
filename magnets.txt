@@ -149,6 +149,7 @@ magnet:?dn=Rammstein.-.RAMMSTEIN.2019.320.KBPS&xt=urn:btih:8a46abce53eec9aca7847
 magnet:?dn=Rammstein.-.Zeit.2022.Mp3.320kbps.PMEDIA️&xt=urn:btih:201bf6f2427036320e0786eb4250ffb089530f02
 magnet:?dn=Rammstein.-.Zick.Zack.2022.Mp3.320kbps.PMEDIA️&xt=urn:btih:590e60fd7bdb26932d4d38ad0950f38f0662329c
 magnet:?dn=Reservoir.Dogs.1992.German.Audiotrack.aac.23976fpms.16khz&xt=urn:btih:8a8d92ef7823d440eea88246bd10f8796813cc2a
+magnet:?dn=Rock,.Hard.Rock,.Metal,.Industrial.Rammstein.-.Discography/iTunes.Discography.-.1995-2019.WEB,.AAC.tracks,.256.kbps&xt=urn:btih:507fdb2aa5fdf018af669b6c6481e8ac257eb070&tr=http://bt3.t-ru.org/ann%3Fmagnet&tr=http://bt4.t-ru.org/ann%3Fmagnet&tr=http://bt.t-ru.org/ann%3Fmagnet&tr=udp://93.158.213.92:1337/announce&tr=udp://45.9.60.30:6969/announce&tr=udp://5.255.124.190:6969/announce&tr=http://bt2.t-ru.org/ann%3Fmagnet&tr=udp://185.216.179.62:25/announce&tr=udp://142.132.183.104:6969/announce
 magnet:?dn=Ruud.Koopmans.Die.Asyl-Lotterie.2023.German.Audiobook&xt=urn:btih:96c002f294110c7bd6792704fbbe52a74838cb8d
 magnet:?dn=Samy.Deluxe.ASD.Afrob.Dynamite.Deluxe.1997-2023.German.Hiphop&xt=urn:btih:5d764ad4ee5fb2e25b030e9564fb0f5dd91d0948
 magnet:?dn=Sandro.Mattioli.Germafia.2024.German.Audiobook&xt=urn:btih:ad8831b34c0977505724502c34a56e6388c31030
