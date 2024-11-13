@@ -26,10 +26,16 @@ noop = False
 if len(sys.argv) == 4 and sys.argv[3] == "-n":
     noop = True
 
+"""
+if os.path.realpath(path1) == os.path.realpath(path2):
+    print(f"{path2}: same file as {path1}", file=sys.stderr)
+    sys.exit()
+"""
+
 f1 = open(path1)
 f2 = open(path2)
 
-hashes1 = set()
+seen_hashes = set()
 
 # TODO also support v2 torrents (rare)
 r = r"xt=urn:btih:([0-9a-fA-F]{40})"
@@ -37,7 +43,7 @@ r = r"xt=urn:btih:([0-9a-fA-F]{40})"
 for line in f1.readlines():
     m = re.search(r, line)
     hash = m.group(1)
-    hashes1.add(hash)
+    seen_hashes.add(hash)
 
 str2 = ""
 
@@ -48,10 +54,11 @@ for line in f2.readlines():
     m = re.search(r, line)
     hash = m.group(1)
     len2a += 1
-    if hash in hashes1:
+    if hash in seen_hashes:
         # remove this line
         continue
     # keep this line
+    seen_hashes.add(hash)
     len2b += 1
     if noop:
         # print result to stdout
@@ -65,8 +72,8 @@ f2.close()
 if noop == False:
     # write result to path2
     if len2b < len2a:
-        print(f"reduced lines from {len2a} to {len2b}", file=sys.stderr)
+        print(f"{path2}: reduced lines from {len2a} to {len2b}", file=sys.stderr)
         with open(path2, "w") as f:
             f.write(str2)
     else:
-        print("no change", file=sys.stderr)
+        print(f"{path2}: no change", file=sys.stderr)
