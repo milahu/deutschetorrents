@@ -594,7 +594,8 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 - filme
   - [streamkiste.tv](https://streamkiste.tv/)
 - serien
-  - [bs.to](https://bs.to/)
+  - [bs.to](https://bs.to/) = [BurningSeries.to](https://burning-series.io/)
+  - [s.to](https://s.to/) = [SerienStream.to](https://serienstream.to/)
 - musik
   - ?
 - hörbücher
@@ -602,6 +603,38 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 - bücher
   - annas-archive.org
   - libgen.rs
+
+
+
+## streamen oder speichern
+
+streamen macht sinn für
+
+- niedrige frequenz: content wird nur ein mal konsumiert
+- niedrige qualität: blaue pillen, ablenkung, zeitverschwendung
+- thin clients: smart TV, smartphone, laptop
+- langsames internet: mobilfunk, starlink
+- angst vor [filesharing abmahnungen](abmahnungen.txt)
+- online konsum
+- niedrige audio qualität: 16khz cutoff
+
+speichern macht sinn für
+
+- hohe frequenz: content wird immer wieder konsumiert
+- hohe qualität: rote pillen, bildung, aufklärung
+- fat clients: desktop, NAS server
+- schnelles internet: glasfaser, VDSL
+- keine angst vor [filesharing abmahnungen](abmahnungen.txt)
+- account sharing
+- offline konsum
+- hohe audio qualität: 20khz cutoff
+
+ungeduld ist \*kein\* argument zum streamen.
+man kann torrents auch "der reihe nach" runterladen (sequential download),
+dann kann man das video sofort starten.
+[popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
+macht das auch so.
+
 
 
 ### siehe auch
