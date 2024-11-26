@@ -9,7 +9,7 @@
     <copyright>public domain</copyright>
     <category></category>
     <ttl>1440</ttl>
-    <lastBuildDate>Tue, 26 Nov 2024 20:27:51 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 20:52:26 +0100</lastBuildDate>
     <item>
       <title>187.Strassenbande</title>
       <guid isPermaLink="false">6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374</guid>
@@ -849,6 +849,11 @@
       <title>Morlockk.Dilemma</title>
       <guid isPermaLink="false">654294487214edff3e02b2f570f7660dd56c2c75</guid>
       <enclosure type="application/x-bittorrent" url="magnet:?dn=Morlockk.Dilemma&amp;xt=urn:btih:654294487214edff3e02b2f570f7660dd56c2c75"/>
+    </item>
+    <item>
+      <title>Mr.Jones.2019.German.Audiotrack.2ch.20khz.24fps</title>
+      <guid isPermaLink="false">6263b7966910dc7b779c01ad5251a8e943ba1d98</guid>
+      <enclosure type="application/x-bittorrent" url="magnet:?dn=Mr.Jones.2019.German.Audiotrack.2ch.20khz.24fps&amp;xt=urn:btih:6263b7966910dc7b779c01ad5251a8e943ba1d98&amp;tr=udp://93.158.213.92:1337/announce&amp;tr=udp://5.255.124.190:6969/announce&amp;tr=udp://142.132.183.104:6969/announce&amp;tr=udp://45.9.60.30:6969/announce&amp;tr=udp://185.216.179.62:25/announce"/>
     </item>
     <item>
       <title>Muxmäuschenstill.2003.720p.German</title>
