@@ -9,7 +9,7 @@
     <copyright>public domain</copyright>
     <category></category>
     <ttl>1440</ttl>
-    <lastBuildDate>Wed, 13 Nov 2024 16:49:55 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 26 Nov 2024 20:27:51 +0100</lastBuildDate>
     <item>
       <title>187.Strassenbande</title>
       <guid isPermaLink="false">6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374</guid>
@@ -1054,6 +1054,11 @@
       <title>South.Park.S10.Complete.German.Audiotrack.aac.20khz.23976fpms</title>
       <guid isPermaLink="false">6b6dd2eac0ec9f38da871feafbaf157e2cf17853</guid>
       <enclosure type="application/x-bittorrent" url="magnet:?dn=South.Park.S10.Complete.German.Audiotrack.aac.20khz.23976fpms&amp;xt=urn:btih:6b6dd2eac0ec9f38da871feafbaf157e2cf17853"/>
+    </item>
+    <item>
+      <title>South.Park.S21.German.Audiotrack.2ch.aac.20khz</title>
+      <guid isPermaLink="false">01d0c7bbf9e25f12387582fe62b4ffa8999972bf</guid>
+      <enclosure type="application/x-bittorrent" url="magnet:?dn=South.Park.S21.German.Audiotrack.2ch.aac.20khz&amp;xt=urn:btih:01d0c7bbf9e25f12387582fe62b4ffa8999972bf&amp;tr=udp://185.216.179.62:25/announce&amp;tr=udp://142.132.183.104:6969/announce&amp;tr=udp://5.255.124.190:6969/announce&amp;tr=udp://45.9.60.30:6969/announce&amp;tr=udp://93.158.213.92:1337/announce"/>
     </item>
     <item>
       <title>South.Park.S22.German.Audiotrack.2ch.aac.20khz</title>

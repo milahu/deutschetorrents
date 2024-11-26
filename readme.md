@@ -236,6 +236,7 @@ magnet:?dn=Snaga.-.Official.Discography.5.Releases.with.Fard.2004.-.2024.MP3.tra
 magnet:?dn=South.Park.Bigger.Longer.and.Uncut.1999.720p.BluRay.x264.YIFY.DL.German.English&xt=urn:btih:e585588477c234dfb9789e7b2765403c67d38456
 magnet:?dn=South.Park.S01.Complete.German.Audiotrack.ac3.20khz.23976fpms&xt=urn:btih:5bfdab3d6e32e05a2762f75a0fdd1136fec098e4
 magnet:?dn=South.Park.S10.Complete.German.Audiotrack.aac.20khz.23976fpms&xt=urn:btih:6b6dd2eac0ec9f38da871feafbaf157e2cf17853
+magnet:?dn=South.Park.S21.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:01d0c7bbf9e25f12387582fe62b4ffa8999972bf&tr=udp://185.216.179.62:25/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://5.255.124.190:6969/announce&tr=udp://45.9.60.30:6969/announce&tr=udp://93.158.213.92:1337/announce
 magnet:?dn=South.Park.S22.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:7d7062e1967b62de8482c4c097e23c9cff84bb70
 magnet:?dn=South.Park.S23.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:51d02230229fe9dedcc48678c62cadf0244395f0
 magnet:?dn=South.Park.S24.German.Audiotrack.2ch.aac.20khz&xt=urn:btih:945ad37e068b2ab53d76369951c65e27390ab913
