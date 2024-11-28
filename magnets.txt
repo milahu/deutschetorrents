@@ -176,6 +176,7 @@ magnet:?dn=Maren.Urner.Radikal.emotional.2024.German.Audiobook.mp3.17khz&xt=urn:
 magnet:?dn=Max.Krone.Manipulation.und.Körpersprache.2020.German.Audiobook.mp3.12khz&xt=urn:btih:fcdc09b71a41735b030057650da21d791a29cdea
 magnet:?dn=MC.Bogy.-.Official.Discography.30.Releases.with.Bass.Sultan.Hengzt,.with.B-Lash,.with.Medizin.Mann,.with.Pablo.S.O.K.,.with.Westbe.German.Hiphop&xt=urn:btih:8898E3DD7E764465305D55ACF2FCD838C695FD46
 magnet:?dn=Michael.Nehls.Das.indoktrinierte.Gehirn.2024.German.Audiobook.mp3.17khz&xt=urn:btih:eb0c427422b689f93564efd5eb52bfc6559d31e2
+magnet:?dn=Michael.Nehls.Die.Algenöl.Revolution.2024.German.Audiobook&xt=urn:btih:39ec101613efa5375ca3aa06624566cbc3d26fbf&tr=udp://45.9.60.30:6969/announce&tr=udp://185.216.179.62:25/announce&tr=udp://93.158.213.92:1337/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://5.255.124.190:6969/announce
 magnet:?dn=Morlockk.Dilemma&xt=urn:btih:654294487214edff3e02b2f570f7660dd56c2c75
 magnet:?dn=Mr.Jones.2019.German.Audiotrack.2ch.20khz.24fps&xt=urn:btih:6263b7966910dc7b779c01ad5251a8e943ba1d98&tr=udp://93.158.213.92:1337/announce&tr=udp://5.255.124.190:6969/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://45.9.60.30:6969/announce&tr=udp://185.216.179.62:25/announce
 magnet:?dn=Muxmäuschenstill.2003.720p.German&xt=urn:btih:2b3c86ee4b6567345dbb7a9c3d8669a0747f1ef8
