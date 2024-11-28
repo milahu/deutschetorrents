@@ -191,6 +191,7 @@ magnet:?dn=Komm,.süsser.Tod.AKA.Come.Sweet.Death.2000.1080p.mkv&xt=urn:btih:28e
 magnet:?dn=Kool.Savas.-.Märtyrer.FLAC.WEB.2014&xt=urn:btih:58dd33d67e3b753e7e482c983075ee9b793ed3c7
 magnet:?dn=Kool.Savas.-.Tot.Oder.Lebendig.2007&xt=urn:btih:33c5270254342f2146f86798a7332d27f077c22a
 magnet:?dn=Kool.Savas.1996-2023.German.Hiphop&xt=urn:btih:5da9ce2503481c4d173c2ff0d883710dffe17563
+magnet:?dn=Kroko.Jack.Extra.Ordinär.2017.German.Austrian.Hiphop&xt=urn:btih:2cfdfd03beae6640c824307e7b077a6fbb82e112&tr=udp://93.158.213.92:1337/announce&tr=udp://185.216.179.62:25/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://5.255.124.190:6969/announce&tr=udp://45.9.60.30:6969/announce
 magnet:?dn=Labrassbanda--Europa-2013-OMArarbg&xt=urn:btih:e9fa70b486eb6c1cbf2bca9edd6561c2dcd927a2
 magnet:?dn=LaBrassBanda.-.Habediehre.2008&xt=urn:btih:7ae303bb3a0e918d43e8a075158bc42de6a61b97
 magnet:?dn=LaBrassBanda.-.Uebersee.2009&xt=urn:btih:321d8f26ac4de319ad2980f0c4744e698a29152d
