@@ -3,3 +3,4 @@ src/dht/german-720p.txt
 src/dht/todo.txt
 src/rutracker.org/magnets.txt
 src/rutracker.org/todo.txt
+src/trash/magnets.txt
