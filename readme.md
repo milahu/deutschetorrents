@@ -598,14 +598,47 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 
 ## quellen
 
+
+
+### downloads
+
+- annas-archive.org - bücher
+- libgen.rs - bücher
 - [serienfans.org](https://serienfans.org/)
   - [filmfans.org](https://filmfans.org/)
 - [mygully.com](https://mygully.com/)
 - [myboerse.bz](https://myboerse.bz/)
+- https://ddl-warez.cc/
+- https://board.canna.tf/ - musik
+- https://byte.to/
+- https://warez-ddl.net/
+- https://nox.to/
+- https://nima4k.org/
+- https://moviehunterz.cc/
+- https://hd-source.to/
+- https://funxd.site/
+- https://jjs.page/
+- https://crawli.net/
+- https://boerse.am/
+- https://boerse.cx/
+- https://canna-power.to/
+- https://board.darklight.to/
+- https://www.data-load.me/
+- https://hoerbuch.us/wp/
+- https://www.hs-scene.to
+- https://tarnkappe.info/listen
+  - https://tarnkappe.info/listen/portale-fuer-illegale-filmdownloads-september-2024-301911.html
+  - https://tarnkappe.info/listen/dokumentationen-herunterladen-portale-im-juli-2024-299244.html
+  - https://tarnkappe.info/listen/serien-streams-portale-fuer-illegale-tv-serien-januar-2024-2-297794.html
+  - https://tarnkappe.info/listen/die-besten-torrent-websites-im-juli-2024-299119.html
+    - https://tarnkappe.info/forum/t/die-besten-torrent-websites-im-juli-2024/15231
+    - http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/hate-maintainers/src/branch/main/hate-tarnkappe
+  - https://tarnkappe.info/listen/szene-webwarez-foren-april-2024-offensichtlich-rechtswidrig-292951.html
+  - https://tarnkappe.info/listen/download-audiobooks-illegale-blogs-foren-portale-mai-2024-293197.html
 
 
 
-## alternativen
+### streams
 
 - filme
   - [streamkiste.tv](https://streamkiste.tv/)
@@ -616,43 +649,56 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
   - ?
 - hörbücher
   - ?
-- bücher
-  - annas-archive.org
-  - libgen.rs
 
 
 
 ## streamen oder speichern
 
+
+
+### streamen
+
 streamen macht sinn für
 
 - niedrige frequenz: content wird nur ein mal konsumiert
-- niedrige qualität: blaue pillen, ablenkung, zeitverschwendung
+- niedrige qualität: blaue pillen, ablenkung, zeitverschwendung (also 99% vom content)
 - thin clients: smart TV, smartphone, laptop
 - langsames internet: mobilfunk, starlink
 - angst vor [filesharing abmahnungen](abmahnungen.txt)
 - online konsum
 - niedrige audio qualität: 16khz cutoff
-
-speichern macht sinn für
-
-- hohe frequenz: content wird immer wieder konsumiert
-- hohe qualität: rote pillen, bildung, aufklärung
-- fat clients: desktop, NAS server
-- schnelles internet: glasfaser, VDSL
-- keine angst vor [filesharing abmahnungen](abmahnungen.txt)
-- account sharing
-- offline konsum
-- hohe audio qualität: 20khz cutoff
+- du bist happy mit einem zensierten angebot (mainstream)
 
 ungeduld ist \*kein\* argument zum streamen.
 man kann torrents auch "der reihe nach" runterladen (sequential download),
 dann kann man das video sofort starten.
 [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
 macht das auch so.
+(nur bei
+[kaputten video dateien](https://trac.ffmpeg.org/wiki/Encode/H.264#faststartforwebvideo)
+geht das nicht.)
 
 
 
-### siehe auch
+### speichern
 
-- [tarnkappe.info](https://tarnkappe.info/)
+speichern macht sinn für
+
+- hohe frequenz: content wird immer wieder konsumiert
+- hohe qualität: rote pillen, bildung, aufklärung (also 1% vom content)
+- fat clients: desktop, NAS server
+- schnelles internet: glasfaser, VDSL
+- keine angst vor [filesharing abmahnungen](abmahnungen.txt)
+- account sharing
+- offline konsum
+- hohe audio qualität: 20khz cutoff
+- du willst ein unzensiertes angebot
+
+
+
+## stichworte
+
+- deutsche tonspuren für filme runterladen
+- deutsche filme runterladen
+- deutsche serien runterladen
+- deutsche musik runterladen
