@@ -80,6 +80,7 @@ magnet:?dn=Felix.Holtermann.Geniale.Betrüger.Wirecard.2021.German.Audiobook&xt=
 magnet:?dn=Fight.Club.1999.German.Audiotrack.2ch.loud.aac.224kbps.23976fpms.21khz&xt=urn:btih:c4c66f874c7ff1c900d3c5236e6317b00e06dfac
 magnet:?dn=First.Snow.of.Summer.2023.GERMAN.1080p.HMAX.WEBRip.DDP5.1.x265.1&xt=urn:btih:efa8707a55c5ad69e5319be638c898fce26ea634
 magnet:?dn=Food.Matters.2008.German.Doku.Du.bist.was.du.isst.2010.360p&xt=urn:btih:0eef07233f61bb44c238b1ccc551e53b146a0f41
+magnet:?dn=Food.Matters.2008.German.Doku.Du.bist.was.du.isst.2010.360p&xt=urn:btih:5fc65b65d3d24b0d0e5edbb34b5ba1f6c838d30f&xl=741403293&tr=udp://45.9.60.30:6969/announce&tr=udp://142.132.183.104:6969/announce&tr=udp://185.216.179.62:25/announce&tr=udp://93.158.213.92:1337/announce&tr=udp://5.255.124.190:6969/announce
 magnet:?dn=Frauenarzt.MC.Digital.F/Artz/Räuber.Rob.-.Official.Discography.28.Releases.with.Blokkmonsta,.DJ.Korx,.DJ.Reckless,.Mehr.Kohle.At.German.Hiphop&xt=urn:btih:e58f67d78946a0a9178bc55a6e9a3023de4ff770
 magnet:?dn=Free.Rainer.Dein.Fernseher.lügt.2007.German.x264.360p&xt=urn:btih:8e94ad540975581b40d03780ba5168746aca05f6
 magnet:?dn=Friedrich.Nietzsche.Götzen-Dämmerung.2016.German.Audiobook&xt=urn:btih:4654d17f3c6470b59df7ed9450bb8bc3c0f556be
