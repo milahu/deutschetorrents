@@ -2,13 +2,14 @@
 
 # https://github.com/milahu/darknet-git-hosting-services
 
-owner=milahu
+owner=milahu5
 repo=deutschetorrents
 
 function git_remote_add_onion() {
   local remote="$1"
   local url="$2"
-  git remote add "$remote" "$url"
+  git remote add "$remote" "$url" ||
+  git remote set-url "$remote" "$url"
   git config --add remote."$remote".proxy socks5h://127.0.0.1:9050
 }
 
