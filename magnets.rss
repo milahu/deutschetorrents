@@ -9,7 +9,7 @@
     <copyright>public domain</copyright>
     <category></category>
     <ttl>1440</ttl>
-    <lastBuildDate>Fri, 14 Mar 2025 20:15:52 +0100</lastBuildDate>
+    <lastBuildDate>Sun, 16 Mar 2025 08:20:30 +0100</lastBuildDate>
     <item>
       <title>187.Strassenbande</title>
       <guid isPermaLink="false">6e8f4b2825c907c84b0cc92ec81ee3d2ecd10374</guid>
@@ -1064,6 +1064,11 @@
       <title>Reservoir.Dogs.1992.German.Audiotrack.aac.23976fpms.16khz</title>
       <guid isPermaLink="false">8a8d92ef7823d440eea88246bd10f8796813cc2a</guid>
       <enclosure type="application/x-bittorrent" url="magnet:?dn=Reservoir.Dogs.1992.German.Audiotrack.aac.23976fpms.16khz&amp;xt=urn:btih:8a8d92ef7823d440eea88246bd10f8796813cc2a"/>
+    </item>
+    <item>
+      <title>Robin.Hood.Men.In.Tights.1993.German.Audiotrack.16khz</title>
+      <guid isPermaLink="false">0835aa45ab110d0e41c620038721e3cfd944f492</guid>
+      <enclosure type="application/x-bittorrent" url="magnet:?dn=Robin.Hood.Men.In.Tights.1993.German.Audiotrack.16khz&amp;xt=urn:btih:0835aa45ab110d0e41c620038721e3cfd944f492&amp;tr=udp://45.9.60.30:6969/announce&amp;tr=udp://142.132.183.104:6969/announce&amp;tr=udp://185.216.179.62:25/announce&amp;tr=udp://93.158.213.92:1337/announce&amp;tr=udp://5.255.124.190:6969/announce"/>
     </item>
     <item>
       <title>Rock,.Hard.Rock,.Metal,.Industrial.Rammstein.-.Discography/iTunes.Discography.-.1995-2019.WEB,.AAC.tracks,.256.kbps</title>
