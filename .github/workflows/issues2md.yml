@@ -1,6 +1,18 @@
 # .github/workflows/issues2md.yml
 # https://github.com/mattduck/gh2md/issues/11
 
+# note: the secret "GITHUB_TOKEN"
+# is passed automatically.
+# you only have to make sure
+# to give write permissions
+# to the action:
+# repo > settings > actions >
+# Workflow permissions >
+# Read and write permissions >
+# Save
+# see also
+# https://github.com/ad-m/github-push-action/issues/96#issuecomment-889984928
+
 name: Issues2Markdown
 on:
   # allow to run the workflow manually
