@@ -37,7 +37,7 @@ jobs:
         gh2md --version || true
         export GITHUB_ACCESS_TOKEN=${{ secrets.GITHUB_TOKEN }}
         # fix: RuntimeError: Output directory already exists and has files in it
-        git rm -rf $GH2MD_OUTPUT_PATH
+        git rm -rf $GH2MD_OUTPUT_PATH || true
         # workaround for https://github.com/mattduck/gh2md/pull/31
         mkdir -p $GH2MD_OUTPUT_PATH || true
         gh2md $GITHUB_REPOSITORY $GH2MD_OUTPUT_PATH/ghmd --idempotent --multiple-files --file-extension .ghmd
