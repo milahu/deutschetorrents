@@ -29,7 +29,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - name: Set output path
-      run: echo "GH2MD_OUTPUT_PATH=archive/github/issues/" >> $GITHUB_ENV
+      run: echo "GH2MD_OUTPUT_PATH=issues/github/" >> $GITHUB_ENV
     - name: Check output path
       run: |
         if ! [[ "$GH2MD_OUTPUT_PATH" =~ ^[a-zA-Z0-9_/.+~-]+$ ]]; then
