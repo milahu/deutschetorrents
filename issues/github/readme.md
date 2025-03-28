@@ -2,6 +2,7 @@
 <details>
 <summary>open issues</summary>
 <table>
+<tr><td><b><a href="md/2025-03-27.29.issue.open.md" title="1 TB -> 2 TB&#10;10 GBP -> 20 GBP pro monat&#10;&#10;https://pontus.feralhosting.com/milahu/Downloads/&#10;&#10;todo&#10;alle torrent file links ändern zu magnet links&#10;&#10;------------------------------------------------------&#10;">neuer server</a></b><br>#29 opened on 2025-03-27 19:22 by milahu</td></tr>
 <tr><td><b><a href="md/2025-03-22.28.issue.open.md" title="Scary.Movie.Movie.Collection.German.microHD.x264-RAIST&#10;&#10;    https://erebus.feralhosting.com/milahu/Downloads/Scary.Movie.2.2001.German.1080p.microHD.x264-RAIST.torrent&#10;    https://erebus.feralhosting.&#10;">filme: Scary Movie (2000)</a></b><br>#28 opened on 2025-03-22 06:05 by milahu</td></tr>
 <tr><td><b><a href="md/2025-03-21.27.issue.open.md" title="The.Big.Lebowski.1998.REMASTERED.PROPER.1080p.BluRay.x265&#10;&#10;https://erebus.feralhosting.com/milahu/Downloads/The.Big.Lebowski.1998.REMASTERED.PROPER.1080p.BluRay.x265.torrent&#10;&#10;source: https://myboerse.&#10;">film: The Big Lebowski (1998)</a></b><br>#27 opened on 2025-03-21 19:45 by milahu</td></tr>
 <tr><td><b><a href="md/2025-03-21.26.issue.open.md" title="39.90.2007.German.800p.microHD.x264-RAIST&#10;&#10;aka: 99 Francs&#10;&#10;https://erebus.feralhosting.com/milahu/Downloads/39.90.2007.German.800p.microHD.x264-RAIST.torrent&#10;&#10;source: https://byte.to/category/MicroHD/&#10;">film: 39,90 (2007)</a></b><br>#26 opened on 2025-03-21 08:58 by milahu</td></tr>
