@@ -599,6 +599,7 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 - automatisieren: runterladen, komprimieren, hochladen
   - [videodiff](https://github.com/milahu/ffmpeg-align-video-scenes/blob/main/videodiff.py)
   - [ffmpeg-2ch-m4a.py](https://github.com/milahu/random/blob/master/ffmpeg/ffmpeg-2ch-m4a.py)
+  - [ffmpeg-keyframes.py](https://github.com/milahu/random/blob/master/ffmpeg/ffmpeg-keyframes.py)
 - integrieren mit [popcorn-desktop](https://github.com/popcorn-official/popcorn-desktop)
 
 
