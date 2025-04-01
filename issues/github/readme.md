@@ -2,6 +2,7 @@
 <details>
 <summary>open issues</summary>
 <table>
+<tr><td><b><a href="md/2025-03-31.42.issue.open.md" title="Harry.Potter.Movie.Collection.German.microHD.x264-RAIST&#10;&#10;    magnet:?xt=urn:btih:bb893cc581e0e64219a59079204571a24d195539&dn=Harry.Potter.Movie.Collection.German.microHD.x264-RAIST&xl=22671464022&tr=u&#10;">filme: Harry Potter (2001)</a></b><br>#42 opened on 2025-03-31 14:03 by milahu</td></tr>
 <tr><td><b><a href="md/2025-03-30.41.issue.open.md" title="    magnet:?xt=urn:btih:dcbf03953799d35fc686541437e28467aa5d4bf2&dn=Animatrix.2003.German.800p.microHD.x264-RAIST&xl=2062904202&tr=udp%3A%2F%2F45.9.60.30%3A6969%2Fannounce&tr=udp%3A%2F%2F142.132.183.1&#10;">filme: The Matrix (1999)</a></b><br>#41 opened on 2025-03-30 13:36 by milahu</td></tr>
 <tr><td><b><a href="md/2025-03-30.40.issue.open.md" title="aka: the brothers grimsby (2016)&#10;&#10;Der.Spion.und.sein.Bruder.2016.German.800p.microHD.x264-RAIST&#10;&#10;    magnet:?xt=urn:btih:4205f0be413637a4ae73f5dd2a44d818f6dc3d9a&dn=Der.Spion.und.sein.Bruder.2016.Germ&#10;">film: Der Spion und sein Bruder (2016)</a></b><br>#40 opened on 2025-03-30 13:35 by milahu</td></tr>
 <tr><td><b><a href="md/2025-03-30.39.issue.open.md" title="continue #1&#10;&#10;todo: format magnet links, add to git&#10;&#10;source: byte.to&#10;&#10;    magnet:?xt=urn:btih:7a31429c4ec961642d6a4a36c1d5ab3fb16b1422&dn=12.Monkeys.1995.German.1080p.microHD.x264-RAIST&xl=2440594901&t&#10;">tempseeds 2</a></b><br>#39 opened on 2025-03-30 12:27 by milahu</td></tr>
