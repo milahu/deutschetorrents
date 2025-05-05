@@ -89,8 +89,12 @@ for magnets_txt in magnets_txt_list:
         dn = query_dict["dn"][0]
         del query_dict["dn"]
         dn = quote_pretty(dn)
-        dn = re.sub(r"^Bitsearch\.to\.", "", dn)
+        dn = re.sub(r"^bitsearch\.to\.", "", dn, re.I)
+        dn = re.sub(r"^Bitsearch\.to\.", "", dn, re.I)
         dn = dn.replace(".⭐", "").replace("⭐", "")
+        if "bitsearch" in dn.lower():
+          print("FIXME remove 'bitsearch' from dn:", dn)
+          sys.exit(1)
         # TODO remove more junk
         query_list.append("dn=" + dn)
       for key in query_dict:
