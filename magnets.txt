@@ -176,6 +176,8 @@ magnet:?dn=Lammbock.2001.German.720p.x264&xt=urn:btih:4599cc7259801bc4aca3a1528b
 magnet:?dn=Leave.the.World.Behind.2023.German.Audiotrack.24fps.20khz&xt=urn:btih:afa79f896f63ca0e0fc586b1be5c1924247fff57
 magnet:?dn=Life.Eternal.2015.1080p.BluRay.x264.ger.russ.mkv&xt=urn:btih:bdc619c218d902cb9ef6fb24c660dd99c397ad88
 magnet:?dn=Live.is.Life..Die.Spätzünder.2010.WEBDL.720p.Ukr_Ger.Hurtom.mkv&xt=urn:btih:29b0e062fe3c2124e7025e423f928be64b0125b2
+magnet:?dn=Lommbock.2017.1080p.BluRay.5.1.YTS.MX&xt=urn:btih:13c073f428e1345072a8a6b23555cc8e7f5b6a0a&xl=2101837313&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
+magnet:?dn=Lommbock.2017.German.BRRip.720p.x264.AAC.-.Hon3y&xt=urn:btih:02c565906828e1cc1aabe650ff77ef76c392888b&xl=961690353&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce
 magnet:?dn=Lord.Of.The.Weed.2014.German.Parody.720p&xt=urn:btih:f26d6a41d8990943cc0c8f577ad0c0de056fe02c
 magnet:?dn=Mach.One.-.Official.Discography.18.Releases.with.Akte.One.Die.Lätzten,.Darn,.King.Orgasmus.One,.Vork.One.2000.-.2023.MP3.tr.German.Hiphop&xt=urn:btih:9dbd23b33e4c0168c50286bb87027b2592361ae9
 magnet:?dn=Maren.Urner.Radikal.emotional.2024.German.Audiobook.mp3.17khz&xt=urn:btih:06ba2177aefc58d435051e7682b04efa289a6d8a
