@@ -5,6 +5,7 @@ cd "$(dirname "$0")/.."
 echo "writing src/magnet-files.txt"
 
 ls \
+  src/dht/german.txt \
   src/dht/german-* \
   src/dht/multi-ger.txt \
   src/dht/todo.txt \
