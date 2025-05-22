@@ -1,5 +1,6 @@
 src/dht/german-1080p.txt
 src/dht/german-720p.txt
+src/dht/german.txt
 src/dht/multi-ger.txt
 src/dht/todo.txt
 src/rutracker.org/magnets.txt
