@@ -669,6 +669,10 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 
 - filme
   - [streamkiste.tv](https://streamkiste.tv/)
+  - [cine.to](https://cine.to/)
+  - [movie4k.sx](https://movie4k.sx/)
+  - [kinokiste.cloud](https://kinokiste.cloud/) - nur mit anmeldung
+  - [filmpalast.to](https://filmpalast.to/)
 - serien
   - [bs.to](https://bs.to/) = [BurningSeries.to](https://burning-series.io/)
   - [s.to](https://s.to/) = [SerienStream.to](https://serienstream.to/)
