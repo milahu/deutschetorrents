@@ -44,6 +44,7 @@ magnet:?dn=Albrecht.Müller.Die.Revolution.ist.fällig.2020.German.Audiobook&xt=
 magnet:?dn=Aldous.Huxley.Schöne.Neue.Welt.1984.German.Audiobook.Wolf.Euba&xt=urn:btih:ddbca7cb4ae93cac3290e954accb4c058239ad15
 magnet:?dn=Alexander.Kowalski._.Extrawelt.-.Reset._.Leaf.43.DMB.%2302&xt=urn:btih:4b3c1f88363177d6026ae1ddd9ad88618f4a00ef
 magnet:?dn=All.Quiet.on.the.Western.Front.2022.GERMAN.1080p.NF.WEBRip.DDP5.1.Atmos.x264-SMU&xt=urn:btih:57b004e743a1645d42f91f39320186d42becfecf
+magnet:?dn=American.History.X.1998.1080p.BluRay.x265.HEVC.10bit.AAC.7.1.English.+.German.+.Spanish.+.Portuguese.FreetheFish.QxR&xt=urn:btih:09496b4781fc1f89d99e39d6db6c1c8ee35d9261&xl=5902231950&tr=udp://tracker.opentrackr.org:1337/announce&tr=udp://tracker.coppersurfer.tk:6969/announce&tr=udp://tracker.torrent.eu.org:451/announce&tr=http://tracker.openbittorrent.com:80/announce&tr=udp://opentracker.i2p.rocks:6969/announce&tr=udp://tracker.internetwarriors.net:1337/announce&tr=udp://tracker.leechers-paradise.org:6969/announce&tr=udp://coppersurfer.tk:6969/announce&tr=udp://tracker.zer0day.to:1337/announce
 magnet:?dn=American.History.X.1998.German.Audiotrack.20khz&xt=urn:btih:551ca8c62a23c5b1cafd2c775c893cc8a202bb1c
 magnet:?dn=Angst.essen.Seele.auf.1974&xt=urn:btih:8c2382a661f7e2c49e633c47a0836d4164258a4a
 magnet:?dn=Angst.Essen.Seele.Auf.Sonata.Premiere&xt=urn:btih:cc7493d3689d9c95c96e7111bbca3b7f12923eb3
