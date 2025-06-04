@@ -1,5 +1,5 @@
+udp://107.189.2.131:1337/announce
 udp://45.9.60.30:6969/announce
-udp://142.132.183.104:6969/announce
 udp://185.216.179.62:25/announce
 udp://93.158.213.92:1337/announce
 udp://5.255.124.190:6969/announce
