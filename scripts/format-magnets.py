@@ -107,6 +107,7 @@ for magnets_txt in magnets_txt_list:
       url = "magnet:?" + "&".join(query_list)
       res.append(url)
 
+    # FIXME dedupe magnet links by hash
     res = list(set(res)) # get unique list
 
     res.sort(key=lambda s: s.lower()) # case-insensitive sort
