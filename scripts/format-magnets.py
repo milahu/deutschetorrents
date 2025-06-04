@@ -27,7 +27,7 @@ for magnets_txt in magnets_txt_list:
       url_parsed = urllib.parse.urlparse(url)
       if url_parsed.scheme != "magnet":
         continue
-      query_dict = urllib.parse.parse_qs(url_parsed.query)
+      query_dict = urllib.parse.parse_qs(url_parsed.query.replace("+", "%2B"))
       """
       query_list = urllib.parse.parse_qsl(url_parsed.query)
       def query_get(key):
