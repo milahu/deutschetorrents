@@ -370,7 +370,7 @@ siehe auch [warez listen bei tarnkappe](https://tarnkappe.info/listen).
 langfristig seeden tu ich nur sachen die ich gut finde:
 rote pillen, fight club, south park, idiocracy, utopia, brothers grimsby, the survivalist, ...
 
-wenn du sonderwünsch hast, dann werde ich das nur kurz seeden für ein paar tage oder wochen,
+wenn du sonderwünsche hast, dann werde ich das nur kurz seeden ([tempseeds.txt](tempseeds.txt)) für ein paar tage oder wochen,
 und dann lösch ich es wieder, weil meine festplatte ist begrenzt.
 solche torrents lad ich dann auch nicht hoch bei [piratebay](https://thepiratebay.org/search.php?q=user:milahu),
 aber das kannst du ja [selber machen](https://github.com/milahu/piratebay-uploader).
