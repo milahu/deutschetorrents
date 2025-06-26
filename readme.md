@@ -460,68 +460,6 @@ ffmpeg -i audio.m4a -i video.mkv -map 0 -map 1 -c copy video2.mkv
 
 
 
-## sneakernet per post
-
-festplatte mit daten kaufen
-
-du hast nur internet über mobilfunk, aber du willst 1000GB filme und musik runterladen?
-
-ich kenne das problem, zum beispiel in der psychiatrie...
-
-aka: [sneakernet](https://de.wikipedia.org/wiki/Turnschuhnetzwerk) per post
-
-ich darf dabei keinen profit machen, also du zahlst nur die materialkosten: festplatte und versand
-
-bei interesse mach ein issue auf einem [mirror](#mirrors) von deutschetorrents, oder schreib mir per email
-
-
-
-### festplatten
-
-- [USB stick](https://geizhals.de/?cat=sm_usb)
-  - [USB stick bis 25mm länge](https://geizhals.de/?cat=sm_usb&xf=5041_25)
-  - [SanDisk Ultra Fit](https://geizhals.de/?cat=sm_usb&asuch=SanDisk+Ultra+Fit&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&mail=&sort=eintr&bl1_id=30)
-    - 32GB: 6eur
-    - 64GB: 8eur
-    - 128GB: 12eur
-    - 256GB: 20eur
-    - 512GB: 40eur
-- [microSD card](https://geizhals.de/?cat=sm_sdhc&xf=15024_microSD&sort=eintr)
-  - [SanDisk Ultra](https://geizhals.de/?cat=sm_sdhc&xf=15024_microSD&asuch=SanDisk+Ultra&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&mail=&sort=eintr&bl1_id=30)
-    - 32GB: 5eur
-    - 64GB: 5eur
-    - 128GB: 10eur
-    - 256GB: 20eur
-    - 512GB: 40eur
-- SATA 2.5" SSD festplatte
-  - [gebraucht](https://www.ebay.de/b/Solid-State-Drives-SSD/175669/bn_798522?LH_ItemCondition=3000&Schnittstelle=SATA%2520II%7CSATA%2520III&mag=1&rt=nc)
-  - [neu](https://geizhals.de/?cat=hdssd&sort=eintr&xf=3204_1.000888%7E4832_1%7E4836_2)
-    - [Samsung SSD 870 EVO](https://geizhals.de/?cat=hdssd&xf=3204_1.000888~4832_1~4836_2&asuch=Samsung+SSD+870+EVO&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&mail=&sort=eintr&bl1_id=30)
-      - 500GB: 50eur
-      - 1TB: 90eur
-      - 2TB: 150eur
-    - [Intenso SSD](https://geizhals.de/?cat=hdssd&xf=1035_Intenso~4832_1~4836_2&sort=eintr)
-      - 256GB: 20eur
-      - 512GB: 30eur
-      - 1TB: 50eur
-      - 2TB: 110eur
-- SATA 3.5" HDD festplatte
-  - [gebraucht](https://www.ebay.de/b/Interne-Computer-Festplatten/56083/bn_789377?Formfaktor=3%252C5%2520Zoll&LH_ItemCondition=3000&Schnittstelle=SATA%2520I%7CSATA%2520II%7CSATA%2520III&mag=1&rt=nc)
-  - [neu](https://geizhals.de/?cat=hde7s&v=e&hloc=at&hloc=de&bl1_id=30&sort=eintr&xf=1080_SATA+6Gb%2Fs%7E3772_3.5)
-    - [Seagate BarraCuda Compute](https://geizhals.de/?cat=hde7s&asuch=BarraCuda+Compute&v=e&hloc=at&hloc=de&bl1_id=30&xf=3772_3.5~957_Seagate&sort=eintr) 5400rpm
-      - 1TB: 50eur
-      - 2TB: 50eur
-      - 4TB: 100eur
-      - 8TB: 130eur
-    - [Seagate Exos](https://geizhals.de/?cat=hde7s&xf=1080_SATA+6Gb%2Fs~3772_3.5&asuch=Seagate+Exos+X&bpmin=&bpmax=&v=e&hloc=at&hloc=de&plz=&dist=&mail=&sort=eintr&bl1_id=30) 7200rpm
-      - 8TB: 170eur
-      - 12TB: 250eur
-      - 16TB: 260eur
-      - 20TB: 360eur
-      - 24TB: 460eur
-
-
-
 ## mirrors
 
 github löscht repos bei DMCA takedown requests, deswegen mirrors im darknet
