@@ -579,6 +579,8 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 
 ### downloads
 
+- https://fmhy.net/non-english#german-deutsch - linkliste
+- https://startseite.to/ - linkliste
 - annas-archive.org - bücher
 - libgen.rs - bücher
 - [serienfans.org](https://serienfans.org/)
@@ -631,6 +633,55 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
   - ?
 - hörbücher
   - ?
+
+
+
+### deutsche tracker
+
+via https://github.com/HDVinnie/Private-Trackers-Spreadsheet
+
+via https://www.sb-innovation.de/showthread.php?35824-Liste-aktueller-deutscher-Torrent-Tracker-V2
+
+```
+cat trackers.json | grep "General, German" | grep -e Application -e Open
+```
+
+#### offen
+
+- New Retro: https://new-retro.eu/
+- Coastal Music Crew: https://coastal-crew.bounceme.net/
+- The Crazy Ones: https://thecrazyones.hopto.org/
+- The New Fun: https://the-new-fun.com/
+
+#### bewerbung mit text
+
+- House of Devil: https://h-o-d.org/
+- Torrent Trader: https://the-torrent-trader.com/
+
+#### bewerbung mit screenshots
+
+screenshots von anderen trackern
+
+- Dark Shadow: https://dark-shadow.me/
+- DasUnerwartete: https://dasunerwartete.biz/
+- Explosiv World: https://explosiv-world.biz/
+- The Falling Angels: https://tfa.tf/
+  - problem: link redirects back to referrer, we have to copy-paste the url
+
+#### bewerbung via forum
+
+- Immortuos: https://immortuos.life/
+  - forum: https://immortuos.live/
+  - Invite Information: https://immortuos.live/showthread.php?tid=186
+    - "Ein Invite bekommt man nur wenn man auf Empfehlungen von Freunden kommt, einen der User kennt oder wenn du von einem anderem Tracker/Forum kommst."
+
+#### invite
+
+bewerbung via kontaktformular?
+
+- Share Friends Projekt: https://s-f-p.dyndns.dk/
+- Spirit of Revolution: https://sor-next.top/
+- The Paradiese: https://theparadiese.hopto.org/
 
 
 
