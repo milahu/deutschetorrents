@@ -616,6 +616,7 @@ scheiss auf die parasiten, die mit jedem scheiss geld machen wollen.
 - [myboerse.bz](https://myboerse.bz/)
 - https://ddl-warez.cc/
 - https://board.canna.tf/ - musik
+- https://hd24bit.com/ - musik
 - https://byte.to/
 - https://warez-ddl.net/
 - https://nox.to/
