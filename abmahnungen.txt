@@ -27,7 +27,7 @@ und dann kann er sich das geld holen per kontopfändung.
 dann hilft nur noch, wenn man schon insolvent ist
 und wenn man ein P-konto hat.
 P-konto = bankkonto mit pfändungsschutz.
-die "pfändungsfreigrenze" sind circa 1400 euro.
+die "pfändungsfreigrenze" sind circa 1400 euro pro monat.
 
 auf die UE (unterlassungserklärung) hat er tatsächlich einen anspruch,
 also die UE kann er vor gericht einklagen.
@@ -49,7 +49,7 @@ und dann *muss* man zahlen, sonst begeht man vertragsbruch.
 die billige lösung:
 man schickt eine *modifizierte* unterlassungserklärung = modUE,
 ohne verpflichtung zur zahlung.
-das kostet genau eine briefmarke, also aktuell 0,85 euro.
+das kostet genau eine briefmarke, also aktuell 0,95 euro.
 einschreiben kann man sich sparen.
 
 mit einer modUE gibt man das versprechen:
@@ -125,7 +125,7 @@ _________________________________
 
 modUE: nicht zahlen bei torrent abmahnung
 
-diesen text pack ich als "info.html#abmahnungen.txt" in meine deutschen torrents.
+diesen text pack ich als "info/abmahnungen.txt" in meine deutschen torrents.
 bitte nachmachen und reposten, zum kampf gegen copyright-anwälte.
 
 aufklärung und "safe use" macht für mich mehr sinn als ALT (anti-leech tracker)
@@ -135,8 +135,7 @@ anti-leech ist sowieso kacke, ich will seeden weil der content gut ist,
 und nicht weil hobby-bürokraten mich zwingen.
 manche clients müssen leechen (mobilfunk oder kein VPN),
 und ich hab genug uplink für alle:
-4MB/s = 10TB/Monat = telekom VDSL 100+40 für 20 euro/monat.
-alle 6 monate mit kündigung drohen, dann bleibts bei 20 euro.
+4MB/s = 10TB/Monat = telekom VDSL 100+40 für 50 euro/monat.
 
 ich will nicht wissen,
 wie viele familien schon streit hatten wegen copyright-abmahnungen,
@@ -173,15 +172,19 @@ in dem sinn, viel spaß beim sterben : )
 
 siehe auch
 modUE: nicht zahlen bei torrent abmahnung
-https://www.szenebox.org/73-rechtsfragen/16280-modue-nicht-zahlen-bei-torrent-abmahnung/
+https://www.szenebox.org/73-%C2%A7%C2%A7_rechtsfragen/16280-modue_nicht_zahlen_bei_torrent_abmahnung/
 
 siehe auch
 Von uns bekommt ihr nix! Wie wir es schaffen nicht zahlen zu müssen
-https://vonunsbekommtihrnix.blackblogs.org/
+https://vonunsbekommtihrnix.noblogs.org/
+https://github.com/milahu/von-uns-bekommt-ihr-nix
+http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/von-uns-bekommt-ihr-nix
+http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/von-uns-bekommt-ihr-nix
 
 torrents hochladen
 https://thepiratebay.org/
 http://piratebayo3klnzokct3wt5yyxb2vpebbuyjl7m623iaxmqhsd52coid.onion/
+https://github.com/milahu/piratebay-uploader
 https://solidtorrents.to/add-torrent
 
 meine deutschen torrents haben immer "german" im titel
