@@ -129,17 +129,27 @@ for magnets_txt in magnets_txt_list:
       # print("url", url)
       # print("torrent.status", torrent.status)
       # print("torrent.trackers", torrent.trackers)
-      max_num_seeds = 0
+      # some trackers dont report num_seeds
+      # so we only use num_peers
+      # example: http://bt.t-ru.org/ann?magnet = https://rutracker.org/
+      """
+      max_num_peers = 0
       for tracker in torrent.trackers:
-        if tracker.num_seeds > max_num_seeds:
-          max_num_seeds = tracker.num_seeds
-      print("max_num_seeds", max_num_seeds)
+        print(tracker)
+        if tracker.tier == -1: continue # DHT, PEX, LSD
+        if tracker.num_peers > max_num_peers:
+          max_num_peers = tracker.num_peers
+      print("max_num_peers", max_num_peers)
+      """
       tracker_urls = []
       for tracker in torrent.trackers:
-        if tracker.num_seeds == max_num_seeds:
-          tracker_urls.append(tracker.url)
-      print("tracker_urls", tracker_urls)
+        if tracker.tier == -1: continue # DHT, PEX, LSD
+        if tracker.num_seeds == 0: continue
+        if tracker.num_peers <= 1: continue # count myself as peer
+        tracker_urls.append(tracker.url)
+      # print("tracker_urls", tracker_urls)
       # TODO use trackerlist_netselect to reduce number of trackers
+      # TODO always keep rutracker.org trackers: http://bt.t-ru.org/ann?magnet etc
       # only keep the top 5 trackers
       query_dict["tr"] = tracker_urls
 
@@ -193,6 +203,8 @@ for magnets_txt in magnets_txt_list:
     res = list(set(res)) # get unique list
 
     res.sort(key=lambda s: s.lower()) # case-insensitive sort
+
+    # raise 123 # debug
 
     print("writing", magnets_txt)
 
