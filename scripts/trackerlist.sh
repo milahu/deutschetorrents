@@ -43,11 +43,8 @@ trackerlist="$(
   head -n$num_servers |
   sed -E 's/^\s*([0-9]+) (.*)$/\2/'
 
-  # https://rutracker.org/
-  echo "http://bt.t-ru.org/ann?magnet"
-  echo "http://bt2.t-ru.org/ann?magnet"
-  echo "http://bt3.t-ru.org/ann?magnet"
-  echo "http://bt4.t-ru.org/ann?magnet"
+  # https://github.com/ngosang/trackerslist/raw/master/trackers_all_i2p.txt
+  echo "http://opentracker.r4sas.i2p/a"
 )"
 
 echo "writing trackerlist.txt"

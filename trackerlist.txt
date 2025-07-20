@@ -1,9 +1,4 @@
 udp://185.216.179.62:25/announce
 udp://93.158.213.92:1337/announce
 udp://45.9.60.30:6969/announce
-udp://5.255.124.190:6969/announce
-udp://5.45.69.185:6969/announce
-http://bt.t-ru.org/ann?magnet
-http://bt2.t-ru.org/ann?magnet
-http://bt3.t-ru.org/ann?magnet
-http://bt4.t-ru.org/ann?magnet
+http://opentracker.r4sas.i2p/a
