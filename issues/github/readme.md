@@ -52,7 +52,6 @@
 <details>
 <summary>closed issues</summary>
 <table>
-<tr><td><b><a href="md/2025-08-11.47.issue.closed.md" title="source: https://byte.to/category/UHD-2160p/Ein-Minecraft-Film-2025-German-Dl-2160p-Uhd-BluRay-x265-Brotherhood-1635910.html&#10;&#10;milahu commented at 2025-08-11 17:48:&#10;&#10;gibts schon als &quot;tempseed&quot;&#10;&#10;https://&#10;">film: Ein Minecraft Film (2025)</a></b><br>#47 opened on 2025-08-11 15:01 by idontpirate1 &#x1f4ac; 2</td></tr>
 <tr><td><b><a href="md/2025-03-07.10.issue.closed.md" title="    magnet:?xt=urn:btih:0835aa45ab110d0e41c620038721e3cfd944f492&dn=Robin.Hood.Men.In.Tights.1993.German.Audiotrack.16khz&tr=udp%3a%2f%2f45.9.60.30%3a6969%2fannounce&tr=udp%3a%2f%2f142.132.183.104%3a6&#10;">Robin.Hood.Men.In.Tights.1993.German.Audiotrack.16khz</a></b><br>#10 opened on 2025-03-07 19:35 by milahu</td></tr>
 <tr><td><b><a href="md/2025-01-28.2.issue.closed.md" title="Hi, ich suche den Film &quot;Last Exit Reno&quot; von (1996) in 1080p.&#10;&#10;vielen lieben Dank im Voraus 😄&#10;&#10;milahu commented at 2025-03-03 20:52:&#10;&#10;schreib mir&#10;milahu@gmail.com&#10;&#10;----------------------------------&#10;">Film, Last Exit Reno, 1996, 1080p x264</a></b><br>#2 opened on 2025-01-28 12:55 by geextahslex &#x1f4ac; 1</td></tr>
 </table>
