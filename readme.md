@@ -580,6 +580,7 @@ $ vnstat -m
        2024-02    313.89 GiB |    7.26 TiB |    7.56 TiB |   26.55 Mbit/s
        2024-03    517.71 GiB |    8.90 TiB |    9.41 TiB |   30.90 Mbit/s
        2024-04    524.06 GiB |    8.63 TiB |    9.14 TiB |   31.02 Mbit/s
+       2025-07      4,01 TiB |    8,14 TiB |   12,16 TiB |   39,92 Mbit/s
 ```
 
 ... ich seede also ungefähr 300 filme pro tag
