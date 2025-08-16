@@ -2,7 +2,7 @@
 
 # https://github.com/milahu/darknet-git-hosting-services
 
-owner=milahu5
+owner=milahu
 repo=deutschetorrents
 
 function git_remote_add_onion() {
