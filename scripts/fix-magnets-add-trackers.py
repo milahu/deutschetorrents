@@ -145,7 +145,7 @@ for magnets_txt in magnets_txt_list:
       for tracker in torrent.trackers:
         if tracker.tier == -1: continue # DHT, PEX, LSD
         if tracker.num_seeds == 0: continue
-        if tracker.num_peers <= 1: continue # count myself as peer
+        if tracker.num_peers == 1: continue # count myself as peer
         tracker_urls.append(tracker.url)
       # print("tracker_urls", tracker_urls)
       # TODO use trackerlist_netselect to reduce number of trackers
