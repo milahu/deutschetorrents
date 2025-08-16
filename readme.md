@@ -501,6 +501,7 @@ und im darknet braucht man keine email zum registrieren, also anonym
 - [github.com](https://github.com/milahu/deutschetorrents)
 - [darktea.onion](http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/deutschetorrents)
 - [righttoprivacy.onion](http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/deutschetorrents)
+- [darkforest.onion](http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/deutschetorrents)
 
 
 

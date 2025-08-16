@@ -62,6 +62,7 @@ cat <<EOF
     <link>https://github.com/milahu/deutschetorrents</link>
     <link>http://it7otdanqu7ktntxzm427cba6i53w6wlanlh23v5i3siqmos47pzhvyd.onion/milahu/deutschetorrents#darktea.onion</link>
     <link>http://gg6zxtreajiijztyy5g6bt5o6l3qu32nrg7eulyemlhxwwl6enk6ghad.onion/milahu/deutschetorrents#righttoprivacy.onion</link>
+    <link>http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/milahu/deutschetorrents#darkforest.onion</link>
     <copyright>public domain</copyright>
     <category></category>
     <ttl>$channel_ttl</ttl>
