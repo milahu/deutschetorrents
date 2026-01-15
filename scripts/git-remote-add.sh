@@ -24,3 +24,5 @@ git_remote_add_onion "$remote" "$url"
 remote=darkforest.onion
 url=http://git.dkforestseeaaq2dqz2uflmlsybvnq2irzn4ygyvu53oazyorednviid.onion/$owner/$repo
 git_remote_add_onion "$remote" "$url"
+
+git_remote_add_onion gdatura.onion http://gdatura24gtdy23lxd7ht3xzx6mi7mdlkabpvuefhrjn4t5jduviw5ad.onion/$owner/$repo
