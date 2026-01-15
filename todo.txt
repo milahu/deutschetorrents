@@ -351,6 +351,7 @@ audiobooks
 
   wilhelm reich
     https://www.youtube.com/results?search_query=h%C3%B6rbuch+wilhelm+reich
+    „Die Massen haben den Faschismus nicht erlitten — sie haben ihn gewollt.“
 
   friedrich nietzsche
 
@@ -428,3 +429,32 @@ audiobooks
   Paulo Freire
 
     Pädagogik der Unterdrückten
+
+  Jean-Paul Sartre
+
+    Wer sich der Unterdrückung anpasst, arbeitet an ihrer Fortsetzung.
+
+  Theodor W. Adorno
+
+    Der Wunsch, es möge doch bitte alles nicht so schlimm sein,
+    ist bereits der Wunsch, dass es so schlimm bleiben möge.
+
+  Michail Bakunin
+
+    „Die Religion lehrt die Menschen, ihre Ketten zu lieben.“
+
+  Erich Fromm
+
+    „Die meisten Menschen fürchten die Freiheit mehr als die Unterdrückung.“
+
+  Karl Marx
+
+    „Die Religion ist der Seufzer der bedrängten Kreatur … das Opium des Volkes.“
+
+  Herbert Marcuse
+
+    „Repressive Toleranz schützt nicht die Freiheit, sondern das Bestehende.“
+
+  Carl Gustav Jung
+
+    „Wo Anpassung herrscht, stirbt das Individuum.“
