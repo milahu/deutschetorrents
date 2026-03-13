@@ -3,7 +3,7 @@
 #set -eux
 
 regex=
-for arg in "$@"; do
+for arg in $@; do
   regex+="$arg."
 done
 regex="${regex:0: -1}"
