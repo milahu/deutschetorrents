@@ -458,3 +458,180 @@ audiobooks
   Carl Gustav Jung
 
     „Wo Anpassung herrscht, stirbt das Individuum.“
+
+
+
+https://chatgpt.com/c/69ee0675-9850-83eb-9db4-fecadec527c6
+Lifeboat Dilemma Ethics
+
+  https://serienfans.org/snowpiercer
+    A post-apocalyptic train with rigid class divisions.
+
+  https://serienfans.org/chernobyl
+    Shows how denial, hierarchy, and fear of losing face produce catastrophic decisions.
+
+  Apocalypse Now
+
+  Animal Farm
+
+  Watchmen
+
+  The Just Assassins
+
+  Crimson Tide
+
+  Blindness
+    Society collapses under a sudden crisis
+
+  Seveneves
+
+  Elysium
+
+  Circle
+    Fifty people must collectively decide who dies next.
+
+  Sunshine
+    A space mission where oxygen and resources become critical.
+
+  The Platform
+    Prisoners are fed from a descending platform.
+
+  Brave New World
+    Society is engineered for stability and happiness, not greatness.
+    Truly independent or exceptional thinkers are pushed to the margins
+    because they threaten the system’s balance.
+
+  The Fountainhead
+    Howard Roark represents uncompromising excellence,
+    while institutions reward conformity and punish originality.
+
+  Harrison Bergeron
+    A dystopia where equality is enforced by handicapping the talented.
+    It’s almost a caricature of “mediocrity enforced by system,” but that’s exactly the point.
+
+  Yes Minister
+    Shows how bureaucratic systems resist change and quietly steer decisions,
+    often sidelining bold or capable leadership in favor of safe, controllable outcomes.
+
+  The Peter Principle
+    The idea that people rise to their level of incompetence —
+    organizations unintentionally promote individuals until they’re no longer effective.
+
+  Office Space
+    A comedic version: disengaged, mediocre management persists
+    because the system rewards compliance over initiative.
+
+  Gladiator
+    Maximus Decimus Meridius is portrayed as a capable, principled leader
+    sidelined by a corrupt political system that elevates the less competent Commodus.
+
+  Moneyball
+    Billy Beane challenges entrenched scouting traditions.
+    The system favors familiar judgment
+    over better (data-driven) decision-making—until results force change.
+
+  Foundation
+    Large-scale systems rely less on heroic individuals and more on predictable structures.
+    “Great leaders” matter less than long-term dynamics.
+
+  The Imitation Game
+    Alan Turing is clearly exceptional, but struggles within rigid institutions.
+    The story shows both sides: the system slows him down,
+    yet also provides the scale and resources he needs.
+
+  The Big Short
+    Figures like Michael Burry are treated as eccentric or alarmist for predicting the 2008 crash.
+    He’s not polished or socially smooth—but his analysis is right, and the system ignores him until it’s too late.
+
+  Spotlight
+    The journalists aren’t “aggressive geniuses,”
+    but they are persistent outsiders to a powerful system that resists them.
+    The truth is there, but institutions suppress or ignore it.
+
+  Dark Waters
+    Robert Bilott keeps pushing a case no one wants to touch.
+    He’s not celebrated—he’s isolated —
+    but is ultimately proven right against a massive system.
+
+  The Social Network
+    Mark Zuckerberg is portrayed as socially abrasive and hard to work with,
+    yet highly effective.
+    The film doesn’t fully endorse him —
+    but it shows how unconventional personalities can drive outcomes.
+
+  Whiplash
+    Terence Fletcher embodies the idea that harsh, even cruel pressure produces excellence.
+    The film is deliberately ambiguous: does this approach create greatness, or just damage?
+
+  Nikola Tesla (often portrayed in films/biopics)
+    Brilliant, eccentric, and repeatedly sidelined.
+    His ideas gain recognition long after his prime, sometimes after his death.
+
+  Galileo Galilei
+    Challenged dominant beliefs and faced institutional rejection.
+    Now seen as foundational to modern science.
+
+  Vincent van Gogh
+    Not a “leader,” but a classic example of someone dismissed in life and celebrated later.
+
+  House M.D.
+    Gregory House is abrasive, rude, and often rejected socially —
+    but frequently correct in diagnosis.
+    The show constantly asks whether his results justify his behavior.
+
+  A Beautiful Mind
+    John Nash struggles with both social friction and internal challenges,
+    yet his ideas eventually reshape economics.
+
+  Frankenstein
+    Victor Frankenstein is a different twist:
+    driven, isolated, convinced of his vision —
+    yet the story becomes a warning about unchecked ambition.
+
+  The Dispossessed
+    Two neighboring societies with radically different systems evolve side by side.
+    It’s not many micro-experiments, but it captures the idea that
+    you can only judge systems by lived reality over time, not theory alone.
+
+  Too Like the Lightning
+    The world is divided into “Hives” —
+    voluntary global societies with different ideologies.
+    People choose which system to live under,
+    creating a kind of parallel governance experiment at scale.
+
+  Walkaway
+    Groups literally “walk away” from mainstream society and build alternative communities.
+    It leans strongly into the idea that experimentation should be cheap and reversible.
+
+  Robert Nozick – “utopia of utopias”
+    In Anarchy, State, and Utopia, he proposes a framework
+    where many different communities with different rules coexist,
+    and people can move between them.
+    This is probably the closest formal philosophical match to your idea.
+
+  Charles Tiebout – “voting with your feet”
+    Not fiction, but influential:
+    people choose between communities with different policies,
+    and competition reveals what works.
+
+  Walden Two
+    A planned experimental community based on behavioral science.
+    It’s optimistic about design —
+    but also raises the question of who designs the designers.
+
+  Island
+    By Aldous Huxley
+    A counterpoint to Brave New World:
+    a small society trying to deliberately get things right
+    through conscious design and experimentation.
+
+  Balaji Srinivasan – The Network State
+    Proposes digitally organized communities
+    that can eventually acquire territory
+    and operate as new kinds of states —
+    essentially opt-in societies competing with each other.
+
+  Seasteading Institute
+    Advocates building floating communities
+    to test new governance systems with minimal interference —
+    very close to your “local experiments” constraint.
