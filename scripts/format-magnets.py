@@ -92,6 +92,7 @@ for magnets_txt in magnets_txt_list:
         dn = re.sub(r"^bitsearch\.to\.", "", dn, flags=re.I)
         dn = re.sub(r"^Bitsearch\.to\.", "", dn, flags=re.I)
         dn = dn.replace(".⭐", "").replace("⭐", "")
+        dn = dn.strip(".")
         if "bitsearch" in dn.lower():
           print("FIXME remove 'bitsearch' from dn:", dn)
           sys.exit(1)
@@ -102,6 +103,8 @@ for magnets_txt in magnets_txt_list:
           # ws = webseed url, for example ws=https://archive.org/download/
           continue
         for val in query_dict[key]:
+          if key == "xt":
+            val = val.lower()
           quote_safe = "/:"
           query_list.append(key + "=" + urllib.parse.quote(val, quote_safe))
       url = "magnet:?" + "&".join(query_list)
