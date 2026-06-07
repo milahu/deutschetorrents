@@ -3,7 +3,7 @@
 deutsche torrents sind tot... es lebe deutschetorrents
 
 meine mudder is so alt, die kennt noch
-[torrent.to](https://www.handelszeitung.ch/unternehmen/torrentto-betreiber-wandert-hinter-gitter)
+[torrent.to](doc/torrentto-betreiber-wandert-hinter-gitter.md)
 
 ernsthaft: die deutsche torrent szene ist sowas von im arsch
 
